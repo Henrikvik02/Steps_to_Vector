@@ -1,118 +1,291 @@
 import json
-import pandas as pd
-
+import os
 import spacy
 
-# Load spaCy's Norwegian model
+# Last inn spaCy's norske pakket
 nlp = spacy.load("nb_core_news_sm")
 
-# Load the combined data
-csv_file_path = "data/combined_data.csv"
-data = pd.read_csv(csv_file_path, encoding='utf-8')
 
+# Funksjon for å laste inn data fra en JSON-fil
+def load_data_from_json(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+# Funksjon for å forbehandle tekst
+# Unngår lemmatisering for alt er allerede definert godt i relasjonsdatabasen,
+# vi vil nemlig at den bare skal hente ut data relatert.
 def preprocess_text(text):
-    # Return empty string if text is not a string
     if not isinstance(text, str):
         return ''
 
-    # Initialize a spaCy document
     doc = nlp(text.lower())
 
-    # Lemmatize and remove stop words and punctuation
-    lemmatized_tokens = [token.lemma_ for token in doc if not token.is_stop and not token.is_punct]
+    # Behold ordene som de er uten lemmatisering, men fjern stoppord og tegnsetting
+    filtered_tokens = [token.text for token in doc if not token.is_stop and not token.is_punct]
 
-    # Join lemmatized tokens back into a single string
-    return ' '.join(lemmatized_tokens)
-
-
-def format_lovverk(df):
-    rules = [{
-        'betingelse': preprocess_text(rule['betingelse']),
-        'verdi': preprocess_text(rule['verdi']),
-        'tillatthandbagasje': preprocess_text(str(rule['tillatthandbagasje'])),
-        'tillattinnsjekketbagasje': preprocess_text(str(rule['tillattinnsjekketbagasje'])),
-        'regelverkbeskrivelse': preprocess_text(rule['regelverkbeskrivelse'])
-    } for rule in df.to_dict('records')]
-
-    # Ensure ASCII is False to handle Norwegian characters
-    return json.dumps(rules, ensure_ascii=False)
-
-def generate_aggregated_data():
-    aggregated_data = data.groupby(['gjenstandnavn', 'kategorinavn']).apply(lambda df: pd.Series({
-        'gjenstandbeskrivelse': preprocess_text(df['gjenstandbeskrivelse'].iloc[0]),
-        'kategoribeskrivelse': preprocess_text(df['kategoribeskrivelse'].iloc[0]),
-        'lovverk': format_lovverk(df)
-    })).reset_index()
-    preprocessed_aggregated_file_path = "data/aggregated/preprocessed_aggregated_combined_data.csv"
-    aggregated_data.to_csv(preprocessed_aggregated_file_path, index=False, encoding='utf-8')
-    print("aggregated data saved to:", preprocessed_aggregated_file_path)
-    return aggregated_data
-
-def generate_lovverk_data(aggregated_data):
-    lovverk_data = aggregated_data[['lovverk']].drop_duplicates().reset_index(drop=True)
-    lovverk_data_file_path = "data/aggregated/preprocessed_aggregated_lovverk_data.csv"
-    lovverk_data.to_csv(lovverk_data_file_path, index=False, encoding='utf-8')
-    print(f"Rules data saved to {lovverk_data_file_path}")
-def generate_gjenstand_data(aggregated_data):
-    gjenstand_data = aggregated_data[['gjenstandnavn']].drop_duplicates().reset_index(drop=True)
-    gjenstand_file_path = "data/aggregated/preprocessed_aggregated_gjenstand_data.csv"
-    gjenstand_data.to_csv(gjenstand_file_path, index=False, encoding='utf-8')
-    print(f"Item data saved to {gjenstand_file_path}")
-
-# Function to generate item data files
-def generate_gjenstand_med_forklaring_data(aggregated_data):
-    gjenstand_med_forklaring_data = aggregated_data[['gjenstandnavn', 'gjenstandbeskrivelse']].drop_duplicates().reset_index(drop=True)
-    gjenstand_med_forklaring_file_path = "data/aggregated/preprocessed_aggregated_gjenstand_med_beskrivelse_data.csv"
-    gjenstand_med_forklaring_data.to_csv(gjenstand_med_forklaring_file_path, index=False, encoding='utf-8')
-    print(f"Item with explanation data saved to {gjenstand_med_forklaring_file_path}")
-
-def generate_gjenstand_med_lovverk_data(aggregated_data):
-    gjenstand_med_lovverk_data = aggregated_data[['gjenstandnavn', 'lovverk']].drop_duplicates().reset_index(drop=True)
-    gjenstand_med_lovverk_file_path = "data/aggregated/preprocessed_aggregated_gjenstand_med_lovverk_data.csv"
-    gjenstand_med_lovverk_data.to_csv(gjenstand_med_lovverk_file_path, index=False, encoding='utf-8')
-    print(f"Item with rules data saved to {gjenstand_med_lovverk_file_path}")
-
-def generate_kategori_data(aggregated_data):
-    kategori_data = aggregated_data[['kategorinavn']].drop_duplicates().reset_index(drop=True)
-    kategori_file_path = "data/aggregated/preprocessed_aggregated_kategori_data.csv"
-    kategori_data.to_csv(kategori_file_path, index=False, encoding='utf-8')
-    print(f"Category data saved to {kategori_file_path}")
-
-# Function to generate category data files
-def generate_kategori_med_forklaring_data(aggregated_data):
-    kategori_med_forklaring_data = aggregated_data[['kategorinavn', 'kategoribeskrivelse']].drop_duplicates().reset_index(drop=True)
-    kategori_med_forklaring_file_path = "data/aggregated/preprocessed_aggregated_kategori_med_forklaring_data.csv"
-    kategori_med_forklaring_data.to_csv(kategori_med_forklaring_file_path, index=False, encoding='utf-8')
-    print(f"Category with explanation data saved to {kategori_med_forklaring_file_path}")
-
-def generate_kategori_med_lovverk_data(aggregated_data):
-    # Anta at 'aggregated_data' allerede inneholder en kolonne 'rules' som er en JSON-streng av regler
-    # Hvis 'aggregated_data' ikke har denne strukturen, må du justere tilnærmingen tilsvarende
-    kategori_med_lovverk_data = aggregated_data[['kategorinavn', 'lovverk']].drop_duplicates().reset_index(drop=True)
-    kategori_med_lovverk_file_path = "data/aggregated/preprocessed_aggregated_kategori_med_lovverk_data.csv"
-    kategori_med_lovverk_data.to_csv(kategori_med_lovverk_file_path, index=False, encoding='utf-8')
-    print(f"Category with rules data saved to {kategori_med_lovverk_file_path}")
-
-def generate_kategori_med_gjenstander_data(aggregated_data):
-    # For å aggregere gjenstander per kategori i JSON-format, kan det være nødvendig
-    # å forenkle eller justere denne funksjonen basert på dine faktiske data.
-    # Dette eksemplet antar en tilnærming hvor vi kun lister opp gjenstandnavn under hver kategori.
-    kategori_med_gjenstander = aggregated_data.groupby('kategorinavn')['gjenstandnavn'].unique().reset_index()
-    kategori_med_gjenstander['gjenstandnavn'] = kategori_med_gjenstander['gjenstandnavn'].apply(
-        lambda x: json.dumps(list(x)))
-
-    kategori_med_gjenstander_file_path = "data/aggregated/preprocessed_aggregated_kategori_med_gjenstander_data.csv"
-    kategori_med_gjenstander.to_csv(kategori_med_gjenstander_file_path, index=False, encoding='utf-8')
-    print(f"Category with Items data saved to {kategori_med_gjenstander_file_path}")
+    return ' '.join(filtered_tokens)
 
 
-# Call the function to generate combined data
-aggregated_data = generate_aggregated_data()
-generate_lovverk_data(aggregated_data)
-generate_gjenstand_data(aggregated_data)
-generate_gjenstand_med_forklaring_data(aggregated_data)
-generate_gjenstand_med_lovverk_data(aggregated_data)
-generate_kategori_data(aggregated_data)
-generate_kategori_med_forklaring_data(aggregated_data)
-generate_kategori_med_lovverk_data(aggregated_data)
-generate_kategori_med_gjenstander_data(aggregated_data)
+# Funksjon for å forbehandle og lagre data
+def preprocess_and_save_data(input_file_path, output_file_path):
+    data = load_data_from_json(input_file_path)
+
+    # Forbehandle hver tekststreng i datasettet
+    preprocessed_data = []
+    for item in data:
+        preprocessed_item = {key: preprocess_text(value) if isinstance(value, str) else value for key, value in
+                             item.items()}
+        preprocessed_data.append(preprocessed_item)
+
+    # Lagre forbehandlet data tilbake til JSON
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(preprocessed_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Preprocessed data saved to: {output_file_path}")
+
+
+# Spesifiser stier for inndata og utdatafiler
+input_files_and_output_paths = [
+    ("data/fetched/combined_data.json", "data/preprocessed/json/combined_data.json"),
+    ("data/fetched/kategorier.json", "data/preprocessed/json/kategorier.json"),
+    ("data/fetched/regelverker.json", "data/preprocessed/json/regelverker.json"),
+    ("data/fetched/gjenstander.json", "data/preprocessed/json/gjenstander.json"),
+    ("data/fetched/regelverktag.json", "data/preprocessed/json/regelverktag.json")
+]
+
+# Utfør forbehandling for hver fil
+for input_path, output_path in input_files_and_output_paths:
+    preprocess_and_save_data(input_path, output_path)
+
+
+# Hjelpefunksjon for å lagre data til JSON
+def save_data_to_json(data, file_path):
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+
+# 1. Gjenstander
+def generate_gjenstander_med_navn_file(input_file_path, output_file_path):
+    data = load_data_from_json(input_file_path)
+
+    # Filtrer ut kun gjenstandnavn
+    items_only_data = [{'gjenstandnavn': item['gjenstandnavn']} for item in data]
+
+    # Lagre filtrerte data tilbake til JSON
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(items_only_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Items only data saved to: {output_file_path}")
+
+
+# 2. Gjenstander med beskrivelse
+def generate_gjenstander_med_beskrivelse_file(input_file_path, output_file_path):
+    data = load_data_from_json(input_file_path)
+
+    # Filtrer ut gjenstandnavn og tilhørende beskrivelse
+    gjenstander_med_beskrivelse_data = [
+        {
+            'gjenstandnavn': item['gjenstandnavn'],
+            'gjenstandbeskrivelse': item['gjenstandbeskrivelse']
+        }
+        for item in data if 'gjenstandbeskrivelse' in item
+        # Sørger for at vi kun inkluderer items som har en beskrivelse
+    ]
+
+    # Lagre filtrerte data tilbake til JSON
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(gjenstander_med_beskrivelse_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Gjenstander med beskrivelse data lagret i: {output_file_path}")
+
+
+# 3. Gjenstander med regelverker
+def generate_gjenstander_med_regelverk_file(input_file_path, output_file_path):
+    """Genererer en fil for gjenstander med tilhørende alle relevante lovverk som array."""
+    data = load_data_from_json(input_file_path)
+
+    gjenstander_med_regelverk = {}
+
+    for item in data:
+        gjenstand_navn = item['gjenstandnavn']
+        if gjenstand_navn not in gjenstander_med_regelverk:
+            gjenstander_med_regelverk[gjenstand_navn] = {
+                'gjenstandnavn': gjenstand_navn,
+                'gjenstandbeskrivelse': item.get('gjenstandbeskrivelse', ''),
+                'regelverker': []
+            }
+
+        regelverk = {
+            'betingelse': item.get('betingelse', ''),
+            'verdi': item.get('verdi', ''),
+            'tillatthandbagasje': item.get('tillatthandbagasje', False),
+            'tillattinnsjekketbagasje': item.get('tillattinnsjekketbagasje', False),
+            'regelverkbeskrivelse': item.get('regelverkbeskrivelse', '')
+        }
+
+        gjenstander_med_regelverk[gjenstand_navn]['regelverker'].append(regelverk)
+
+    # Lagrer de aggregerte gjenstandene med tilhørende lovverk til en JSON-fil
+    with open(output_file_path, 'w', encoding='utf-8') as file:
+        json.dump(list(gjenstander_med_regelverk.values()), file, ensure_ascii=False, indent=4)
+
+    print(f"Data for gjenstander med lovverk lagret til: {output_file_path}")
+
+
+# 4. Kategorier
+def generate_kategorier_file(input_file_path, output_file_path):
+    data = load_data_from_json(input_file_path)
+
+    # Filtrer ut kun gjenstandnavn
+    items_only_data = [{'kategorinavn': item['kategorinavn']} for item in data]
+
+    # Lagre filtrerte data tilbake til JSON
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(items_only_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Kategori only data saved to: {output_file_path}")
+
+
+# 5. Kategorier med beskrivelse
+def generate_kategorier_med_beskrivelse_file(input_file_path, output_file_path):
+    data = load_data_from_json(input_file_path)
+
+    # Filtrer ut gjenstandnavn og tilhørende beskrivelse
+    kategorier_med_beskrivelse_data = [
+        {
+            'kategorinavn': item['kategorinavn'],
+            'kategoribeskrivelse': item['kategoribeskrivelse']
+        }
+        for item in data if 'kategoribeskrivelse' in item
+        # Sørger for at vi kun inkluderer items som har en beskrivelse
+    ]
+
+    # Lagre filtrerte data tilbake til JSON
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(kategorier_med_beskrivelse_data, f, ensure_ascii=False, indent=4)
+
+    print(f"Kategorier med beskrivelse data lagret i: {output_file_path}")
+
+
+# 6 Kategorier med gjenstander
+def generate_kategorier_med_gjenstander_file(input_file_path, output_file_path):
+    """Genererer en fil for kategorier med tilhørende gjenstander og regelverk som array."""
+    data = load_data_from_json(input_file_path)
+
+    # Grupperer data basert på kategorinavn for å samle relaterte gjenstander og deres regelverk
+    kategori_gjenstander_mapping = {}
+    for item in data:
+        kategori = item['kategorinavn']
+        if kategori not in kategori_gjenstander_mapping:
+            kategori_gjenstander_mapping[kategori] = {
+                'kategorinavn': kategori,
+                'kategoribeskrivelse': item['kategoribeskrivelse'],
+                'gjenstander': []
+            }
+
+        gjenstand = {
+            'gjenstandnavn': item['gjenstandnavn'],
+            'gjenstandbeskrivelse': item.get('gjenstandbeskrivelse', ''),
+            'regelverk': {
+                'betingelse': item.get('betingelse', ''),
+                'verdi': item.get('verdi', ''),
+                'tillatthandbagasje': item.get('tillatthandbagasje', False),
+                'tillattinnsjekketbagasje': item.get('tillattinnsjekketbagasje', False),
+                'regelverkbeskrivelse': item.get('regelverkbeskrivelse', '')
+            }
+        }
+        kategori_gjenstander_mapping[kategori]['gjenstander'].append(gjenstand)
+
+    # Konverterer mappingen til en liste med kategorier og deres relaterte gjenstander inkludert regelverk
+    kategorier_med_gjenstander_data = list(kategori_gjenstander_mapping.values())
+
+    # Lagrer den aggregerte listen av kategorier med tilhørende gjenstander og regelverk til en JSON-fil
+    with open(output_file_path, 'w', encoding='utf-8') as file:
+        json.dump(kategorier_med_gjenstander_data, file, ensure_ascii=False, indent=4)
+
+    print(f"Data for kategorier med gjenstander og deres regelverk lagret til: {output_file_path}")
+
+
+# 7. Kategorier med regelverk
+def generate_kategorier_med_regelverk_file(input_file_path, output_file_path):
+    """Genererer en fil for kategorier med tilhørende regelverk som array."""
+    data = load_data_from_json(input_file_path)
+
+    # Grupperer data basert på kategorinavn for å samle relaterte regelverk
+    kategori_regelverk_mapping = {}
+    for item in data:
+        kategori = item['kategorinavn']
+        if kategori not in kategori_regelverk_mapping:
+            kategori_regelverk_mapping[kategori] = {
+                'kategorinavn': kategori,
+                'kategoribeskrivelse': item['kategoribeskrivelse'],
+                'regelverk': []
+            }
+
+        regelverk = {
+            'betingelse': item.get('betingelse', ''),
+            'verdi': item.get('verdi', ''),
+            'tillatthandbagasje': item.get('tillatthandbagasje', False),
+            'tillattinnsjekketbagasje': item.get('tillattinnsjekketbagasje', False),
+            'regelverkbeskrivelse': item.get('regelverkbeskrivelse', '')
+        }
+        kategori_regelverk_mapping[kategori]['regelverk'].append(regelverk)
+
+    # Konverterer mappingen til en liste med kategorier og deres relaterte regelverk
+    kategorier_med_regelverk_data = list(kategori_regelverk_mapping.values())
+
+    # Lagrer den aggregerte listen av kategorier med tilhørende regelverk som array til en JSON-fil
+    with open(output_file_path, 'w', encoding='utf-8') as file:
+        json.dump(kategorier_med_regelverk_data, file, ensure_ascii=False, indent=4)
+
+    print(f"Data for kategorier med regelverk lagret til: {output_file_path}")
+
+
+generate_gjenstander_med_navn_file("data/preprocessed/json/gjenstander.json",
+                                   "data/preprocessed/json/gjenstander_navn.json")
+
+generate_gjenstander_med_beskrivelse_file("data/preprocessed/json/gjenstander.json",
+                                          "data/preprocessed/json/gjenstander_med_beskrivelse.json")
+
+generate_gjenstander_med_regelverk_file("data/preprocessed/json/combined_data.json",
+                                        "data/preprocessed/json/gjenstander_med_lovverk.json")
+
+generate_kategorier_file("data/preprocessed/json/kategorier.json",
+                         "data/preprocessed/json/kategorier_navn.json")
+
+generate_kategorier_med_beskrivelse_file("data/preprocessed/json/kategorier.json",
+                                         "data/preprocessed/json/kategorier_med_beskrivelse.json")
+
+generate_kategorier_med_gjenstander_file("data/preprocessed/json/combined_data.json",
+                                         "data/preprocessed/json/kategorier_med_gjenstander.json")
+
+generate_kategorier_med_regelverk_file("data/preprocessed/json/combined_data.json",
+                                       "data/preprocessed/json/kategorier_med_regelverk.json")
+
+
+def convert_folder_json_to_jsonl_with_labels(input_folder_path, output_folder_path):
+    # Sørg for at utmappen eksisterer
+    os.makedirs(output_folder_path, exist_ok=True)
+
+    # Iterer over alle filer i in-mappen
+    for filename in os.listdir(input_folder_path):
+        # Sjekk om filen er en JSON-fil
+        if filename.endswith('.json'):
+            input_file_path = os.path.join(input_folder_path, filename)
+            output_file_path = os.path.join(output_folder_path, filename.replace('.json', '.jsonl'))
+
+            # Konverter JSON-fil til JSONL og legg til en tom 'label'-kolonne
+            with open(input_file_path, 'r', encoding='utf-8') as input_file, open(output_file_path, 'w', encoding='utf-8') as output_file:
+                data = json.load(input_file)
+                for entry in data:
+                    # Legger til en tom 'label'-kolonne til hver oppføring
+                    entry_with_label = entry
+                    entry_with_label['label'] = []  # Du kan tilpasse dette basert på dine behov
+                    json_record = json.dumps(entry_with_label, ensure_ascii=False)
+                    output_file.write(json_record + '\n')
+            print(f"Konvertert {filename} til JSONL med labels og lagret i {output_file_path}")
+
+
+
+convert_folder_json_to_jsonl_with_labels("data/preprocessed/json", "data/preprocessed/jsonl")

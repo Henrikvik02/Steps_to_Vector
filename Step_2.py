@@ -1,5 +1,4 @@
 import os
-
 from sqlalchemy import create_engine
 import pandas as pd
 
@@ -17,24 +16,24 @@ DATABASE = {
 engine = create_engine(f"{DATABASE['drivername']}://{DATABASE['username']}:{DATABASE['password']}@{DATABASE['host']}:{DATABASE['port']}/{DATABASE['database']}")
 
 def fetch_and_store_kategorier(engine):
-    query = "SELECT KategoriID, Navn, Beskrivelse FROM Kategorier;"
+    query = "SELECT KategoriID, Navn AS KategoriNavn, Beskrivelse AS KategoriBeskrivelse FROM Kategorier;"
     data = pd.read_sql(query, engine)
-    data.to_csv("data/kategorier.csv", index=False)
+    data.to_json("data/fetched/kategorier.json", orient='records', indent=4, force_ascii=False)
 
 def fetch_and_store_regelverker(engine):
-    query = """SELECT RegelverkID, KategoriID, Betingelse, Verdi, TillattHandBagasje, TillattInnsjekketBagasje, Beskrivelse FROM Regelverker;"""
+    query = """SELECT RegelverkID, KategoriID, Betingelse, Verdi, TillattHandBagasje, TillattInnsjekketBagasje, Beskrivelse AS RegelverkBeskrivelse FROM Regelverker;"""
     data = pd.read_sql(query, engine)
-    data.to_csv("data/regelverker.csv", index=False)
+    data.to_json("data/fetched/regelverker.json", orient='records', indent=4, force_ascii=False)
 
 def fetch_and_store_gjenstander(engine):
-    query = """SELECT GjenstandID, GjenstandNavn, KategoriID, Beskrivelse FROM Gjenstander;"""
+    query = """SELECT GjenstandID, GjenstandNavn, KategoriID, Beskrivelse AS GjenstandBeskrivelse FROM Gjenstander;"""
     data = pd.read_sql(query, engine)
-    data.to_csv("data/gjenstander.csv", index=False)
+    data.to_json("data/fetched/gjenstander.json", orient='records', indent=4, force_ascii=False)
 
 def fetch_and_store_regelverktag(engine):
     query = """SELECT RegelverkTagID, RegelverkID, GjenstandID FROM RegelverkTag;"""
     data = pd.read_sql(query, engine)
-    data.to_csv("data/regelverktag.csv", index=False)
+    data.to_json("data/fetched/regelverktag.json", orient='records', indent=4, force_ascii=False)
 
 def fetch_and_store_combined_data(engine):
     complex_query = """
@@ -58,17 +57,17 @@ def fetch_and_store_combined_data(engine):
         Regelverker ON RegelverkTag.RegelverkID = Regelverker.RegelverkID;
     """
     combined_data = pd.read_sql(complex_query, engine)
-    csv_file_path = "data/combined_data.csv"
-    combined_data.to_csv(csv_file_path, index=False)
-    return csv_file_path
+    json_file_path = "data/fetched/combined_data.json"
+    combined_data.to_json(json_file_path, orient='records', indent=4, force_ascii=False)
+    return json_file_path
 
 os.makedirs('data', exist_ok=True)
 
 # Execute functions to fetch and store data
-csv_file_path_combined = fetch_and_store_combined_data(engine)
+json_file_path_combined = fetch_and_store_combined_data(engine)
 fetch_and_store_kategorier(engine)
 fetch_and_store_regelverker(engine)
 fetch_and_store_gjenstander(engine)
 fetch_and_store_regelverktag(engine)
 
-print(f"Combined data stored in: {csv_file_path_combined}")
+print(f"Combined data stored in: {json_file_path_combined}")

@@ -3,7 +3,7 @@ from spacy.training import Example
 import pandas as pd
 from tqdm import tqdm
 
-nlp = spacy.blank("nb")  # Opprett en ny norsk spaCy-modell
+nlp = spacy.blank("nb")  # Opprett en ny norsk spaCy-pakket
 if "ner" not in nlp.pipe_names:
     ner = nlp.add_pipe("ner", last=True)
 ner.add_label("GJENSTAND")
