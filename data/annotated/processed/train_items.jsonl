@@ -20,8 +20,8 @@
 {"text": "bakterie", "entities": [[0, 8, "Gjenstand"]]}
 {"text": "virus", "entities": [[0, 5, "Gjenstand"]]}
 {"text": "radioaktivt materiale", "entities": [[0, 21, "Gjenstand"]]}
-{"text": "våpenetterligning", "entities": [[0, 17, "Gjenstand"]]}
-{"text": "våpendel", "entities": [[0, 8, "Gjenstand"]]}
+{"text": "våpenetterligninger", "entities": [[0, 17, "Gjenstand"]]}
+{"text": "våpendeler", "entities": [[0, 8, "Gjenstand"]]}
 {"text": "luftgevær", "entities": [[0, 9, "Gjenstand"]]}
 {"text": "paintballvåpen", "entities": [[0, 14, "Gjenstand"]]}
 {"text": "spikerpistol", "entities": [[0, 12, "Gjenstand"]]}

@@ -21,7 +21,8 @@ def fetch_and_store_kategorier(engine):
     data.to_json("data/fetched/kategorier.json", orient='records', indent=4, force_ascii=False)
 
 def fetch_and_store_regelverker(engine):
-    query = """SELECT RegelverkID, KategoriID, Betingelse, Verdi, TillattHandBagasje, TillattInnsjekketBagasje, Beskrivelse AS RegelverkBeskrivelse FROM Regelverker;"""
+    query = """SELECT RegelverkID, KategoriID, Betingelse, Verdi, TillattHandBagasje, TillattInnsjekketBagasje, 
+    Beskrivelse AS RegelverkBeskrivelse FROM Regelverker;"""
     data = pd.read_sql(query, engine)
     data.to_json("data/fetched/regelverker.json", orient='records', indent=4, force_ascii=False)
 
