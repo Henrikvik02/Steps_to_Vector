@@ -73,7 +73,7 @@
 {"text": "kjøttøks", "entities": [[0, 8, "Gjenstand"]]}
 {"text": "ørepropper", "entities": [[0, 10, "Gjenstand"]]}
 {"text": "lommekniv", "entities": [[0, 9, "Gjenstand"]]}
-{"text": "isbrodd", "entities": [[0, 7, "Gjenstand"]]}
+{"text": "isbrodder", "entities": [[0, 7, "Gjenstand"]]}
 {"text": "ammunisjon", "entities": [[0, 10, "Gjenstand"]]}
 {"text": "balltre", "entities": [[0, 7, "Gjenstand"]]}
 {"text": "barberblader", "entities": [[0, 12, "Gjenstand"]]}
