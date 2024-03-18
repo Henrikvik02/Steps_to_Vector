@@ -1,0 +1,566 @@
+[
+    {
+        "gjenstandnavn": "rullestol"
+    },
+    {
+        "gjenstandnavn": "skalpell"
+    },
+    {
+        "gjenstandnavn": "engangshøvle"
+    },
+    {
+        "gjenstandnavn": "pinsett"
+    },
+    {
+        "gjenstandnavn": "paraply"
+    },
+    {
+        "gjenstandnavn": "heklenål"
+    },
+    {
+        "gjenstandnavn": "sigarkutter"
+    },
+    {
+        "gjenstandnavn": "neglefil"
+    },
+    {
+        "gjenstandnavn": "bunadssølje"
+    },
+    {
+        "gjenstandnavn": "aerosol"
+    },
+    {
+        "gjenstandnavn": "gasslighter"
+    },
+    {
+        "gjenstandnavn": "sikkerhetsfyrstikke"
+    },
+    {
+        "gjenstandnavn": "brannslokningsapparat"
+    },
+    {
+        "gjenstandnavn": "pepperspray"
+    },
+    {
+        "gjenstandnavn": "tåregass"
+    },
+    {
+        "gjenstandnavn": "syre"
+    },
+    {
+        "gjenstandnavn": "klor"
+    },
+    {
+        "gjenstandnavn": "rottegift"
+    },
+    {
+        "gjenstandnavn": "infisert blod"
+    },
+    {
+        "gjenstandnavn": "bakterie"
+    },
+    {
+        "gjenstandnavn": "virus"
+    },
+    {
+        "gjenstandnavn": "radioaktivt materiale"
+    },
+    {
+        "gjenstandnavn": "våpenetterligning"
+    },
+    {
+        "gjenstandnavn": "våpendel"
+    },
+    {
+        "gjenstandnavn": "luftgevær"
+    },
+    {
+        "gjenstandnavn": "paintballvåpen"
+    },
+    {
+        "gjenstandnavn": "spikerpistol"
+    },
+    {
+        "gjenstandnavn": "avlivingsutstyr"
+    },
+    {
+        "gjenstandnavn": "elektrosjokkvåpen"
+    },
+    {
+        "gjenstandnavn": "golfkølle"
+    },
+    {
+        "gjenstandnavn": "harpuner"
+    },
+    {
+        "gjenstandnavn": "ishockeykølle"
+    },
+    {
+        "gjenstandnavn": "slåsshanske"
+    },
+    {
+        "gjenstandnavn": "klubbe"
+    },
+    {
+        "gjenstandnavn": "batong"
+    },
+    {
+        "gjenstandnavn": "nunchakoer"
+    },
+    {
+        "gjenstandnavn": "kastestjerne"
+    },
+    {
+        "gjenstandnavn": "kårde"
+    },
+    {
+        "gjenstandnavn": "machete"
+    },
+    {
+        "gjenstandnavn": "fiskekrok"
+    },
+    {
+        "gjenstandnavn": "segway"
+    },
+    {
+        "gjenstandnavn": "solowheel"
+    },
+    {
+        "gjenstandnavn": "balance glider"
+    },
+    {
+        "gjenstandnavn": "primus"
+    },
+    {
+        "gjenstandnavn": "parfyme"
+    },
+    {
+        "gjenstandnavn": "linsevæske"
+    },
+    {
+        "gjenstandnavn": "shampo"
+    },
+    {
+        "gjenstandnavn": "balsam"
+    },
+    {
+        "gjenstandnavn": "vann"
+    },
+    {
+        "gjenstandnavn": "sprøyte"
+    },
+    {
+        "gjenstandnavn": "sprøytespiss"
+    },
+    {
+        "gjenstandnavn": "spyd"
+    },
+    {
+        "gjenstandnavn": "startpistol"
+    },
+    {
+        "gjenstandnavn": "signalpistol"
+    },
+    {
+        "gjenstandnavn": "stearinlys"
+    },
+    {
+        "gjenstandnavn": "telys"
+    },
+    {
+        "gjenstandnavn": "stormkjøkken"
+    },
+    {
+        "gjenstandnavn": "drivstoffbeholder"
+    },
+    {
+        "gjenstandnavn": "strikkepinne"
+    },
+    {
+        "gjenstandnavn": "sverd"
+    },
+    {
+        "gjenstandnavn": "sabler"
+    },
+    {
+        "gjenstandnavn": "sykkelpatrone"
+    },
+    {
+        "gjenstandnavn": "syltetøy"
+    },
+    {
+        "gjenstandnavn": "mobiltelefon"
+    },
+    {
+        "gjenstandnavn": "tannkrem"
+    },
+    {
+        "gjenstandnavn": "tapetkniv"
+    },
+    {
+        "gjenstandnavn": "telt"
+    },
+    {
+        "gjenstandnavn": "teltstenge"
+    },
+    {
+        "gjenstandnavn": "teltplugg"
+    },
+    {
+        "gjenstandnavn": "tennisracket"
+    },
+    {
+        "gjenstandnavn": "trankapsler"
+    },
+    {
+        "gjenstandnavn": "øks"
+    },
+    {
+        "gjenstandnavn": "kjøttøks"
+    },
+    {
+        "gjenstandnavn": "ørepropper"
+    },
+    {
+        "gjenstandnavn": "lommekniv"
+    },
+    {
+        "gjenstandnavn": "isbrodd"
+    },
+    {
+        "gjenstandnavn": "ammunisjon"
+    },
+    {
+        "gjenstandnavn": "balltre"
+    },
+    {
+        "gjenstandnavn": "barberblader"
+    },
+    {
+        "gjenstandnavn": "barberhøvel"
+    },
+    {
+        "gjenstandnavn": "biljardkø"
+    },
+    {
+        "gjenstandnavn": "blåselampe"
+    },
+    {
+        "gjenstandnavn": "boremaskin"
+    },
+    {
+        "gjenstandnavn": "bor"
+    },
+    {
+        "gjenstandnavn": "drill"
+    },
+    {
+        "gjenstandnavn": "bowlingkule"
+    },
+    {
+        "gjenstandnavn": "brekkjern"
+    },
+    {
+        "gjenstandnavn": "brunost"
+    },
+    {
+        "gjenstandnavn": "hvitost"
+    },
+    {
+        "gjenstandnavn": "bær"
+    },
+    {
+        "gjenstandnavn": "dartpil"
+    },
+    {
+        "gjenstandnavn": "deodorant"
+    },
+    {
+        "gjenstandnavn": "desinfeksjonsvæske"
+    },
+    {
+        "gjenstandnavn": "desinfiserende våtserviett"
+    },
+    {
+        "gjenstandnavn": "detonator"
+    },
+    {
+        "gjenstandnavn": "lunte"
+    },
+    {
+        "gjenstandnavn": "dynamitt"
+    },
+    {
+        "gjenstandnavn": "krutt"
+    },
+    {
+        "gjenstandnavn": "plastiske sprengstoff"
+    },
+    {
+        "gjenstandnavn": "egg"
+    },
+    {
+        "gjenstandnavn": "elektronikk"
+    },
+    {
+        "gjenstandnavn": "elektroniske sigaretter"
+    },
+    {
+        "gjenstandnavn": "fenghett"
+    },
+    {
+        "gjenstandnavn": "fisk"
+    },
+    {
+        "gjenstandnavn": "fiskestang"
+    },
+    {
+        "gjenstandnavn": "frukt"
+    },
+    {
+        "gjenstandnavn": "fyrstikk"
+    },
+    {
+        "gjenstandnavn": "pyroteknisk utstyr"
+    },
+    {
+        "gjenstandnavn": "grøt"
+    },
+    {
+        "gjenstandnavn": "pudding"
+    },
+    {
+        "gjenstandnavn": "gelé"
+    },
+    {
+        "gjenstandnavn": "krem"
+    },
+    {
+        "gjenstandnavn": "gåstav"
+    },
+    {
+        "gjenstandnavn": "harpungevær"
+    },
+    {
+        "gjenstandnavn": "hoverboard"
+    },
+    {
+        "gjenstandnavn": "hudkrem"
+    },
+    {
+        "gjenstandnavn": "lotion"
+    },
+    {
+        "gjenstandnavn": "håndjern"
+    },
+    {
+        "gjenstandnavn": "isøks"
+    },
+    {
+        "gjenstandnavn": "ishakke"
+    },
+    {
+        "gjenstandnavn": "bakverk fyll"
+    },
+    {
+        "gjenstandnavn": "kakebunn"
+    },
+    {
+        "gjenstandnavn": "tørre kake"
+    },
+    {
+        "gjenstandnavn": "tørre kjeks"
+    },
+    {
+        "gjenstandnavn": "tørre cookies"
+    },
+    {
+        "gjenstandnavn": "kampsportsutstyr"
+    },
+    {
+        "gjenstandnavn": "kaviar tube"
+    },
+    {
+        "gjenstandnavn": "kjøtt"
+    },
+    {
+        "gjenstandnavn": "kjøttfarse"
+    },
+    {
+        "gjenstandnavn": "kniv"
+    },
+    {
+        "gjenstandnavn": "kokosnøtt"
+    },
+    {
+        "gjenstandnavn": "kokosmelk"
+    },
+    {
+        "gjenstandnavn": "krykke"
+    },
+    {
+        "gjenstandnavn": "lekepistol"
+    },
+    {
+        "gjenstandnavn": "våpenimitasjon"
+    },
+    {
+        "gjenstandnavn": "leppestift"
+    },
+    {
+        "gjenstandnavn": "solstift"
+    },
+    {
+        "gjenstandnavn": "dekkstift"
+    },
+    {
+        "gjenstandnavn": "lighter"
+    },
+    {
+        "gjenstandnavn": "lipgloss"
+    },
+    {
+        "gjenstandnavn": "luftpistol"
+    },
+    {
+        "gjenstandnavn": "matpakke"
+    },
+    {
+        "gjenstandnavn": "medisinsk utstyr"
+    },
+    {
+        "gjenstandnavn": "mine"
+    },
+    {
+        "gjenstandnavn": "granat"
+    },
+    {
+        "gjenstandnavn": "sprengstoff"
+    },
+    {
+        "gjenstandnavn": "neglklipper"
+    },
+    {
+        "gjenstandnavn": "padleåre"
+    },
+    {
+        "gjenstandnavn": "pc"
+    },
+    {
+        "gjenstandnavn": "nettbrett"
+    },
+    {
+        "gjenstandnavn": "pil"
+    },
+    {
+        "gjenstandnavn": "bue"
+    },
+    {
+        "gjenstandnavn": "armbrøst"
+    },
+    {
+        "gjenstandnavn": "pil bue"
+    },
+    {
+        "gjenstandnavn": "potteplante"
+    },
+    {
+        "gjenstandnavn": "powerbank"
+    },
+    {
+        "gjenstandnavn": "prim"
+    },
+    {
+        "gjenstandnavn": "muggost"
+    },
+    {
+        "gjenstandnavn": "smøre-ost"
+    },
+    {
+        "gjenstandnavn": "proteindrikk"
+    },
+    {
+        "gjenstandnavn": "sportsdrikk"
+    },
+    {
+        "gjenstandnavn": "proteinpulver"
+    },
+    {
+        "gjenstandnavn": "redningsvest"
+    },
+    {
+        "gjenstandnavn": "rogn"
+    },
+    {
+        "gjenstandnavn": "basiske stoff"
+    },
+    {
+        "gjenstandnavn": "kvikksølv"
+    },
+    {
+        "gjenstandnavn": "bilbatteri"
+    },
+    {
+        "gjenstandnavn": "røykbombe"
+    },
+    {
+        "gjenstandnavn": "røykpatrone"
+    },
+    {
+        "gjenstandnavn": "sag"
+    },
+    {
+        "gjenstandnavn": "saks"
+    },
+    {
+        "gjenstandnavn": "sjampo"
+    },
+    {
+        "gjenstandnavn": "såpe"
+    },
+    {
+        "gjenstandnavn": "sjokolade"
+    },
+    {
+        "gjenstandnavn": "konfekt"
+    },
+    {
+        "gjenstandnavn": "porøs sjokolade"
+    },
+    {
+        "gjenstandnavn": "sjokoladepålegg"
+    },
+    {
+        "gjenstandnavn": "skateboard"
+    },
+    {
+        "gjenstandnavn": "skrujern"
+    },
+    {
+        "gjenstandnavn": "meisel"
+    },
+    {
+        "gjenstandnavn": "skytevåpen"
+    },
+    {
+        "gjenstandnavn": "skøyte"
+    },
+    {
+        "gjenstandnavn": "smør"
+    },
+    {
+        "gjenstandnavn": "margarin"
+    },
+    {
+        "gjenstandnavn": "sparkesykkel"
+    },
+    {
+        "gjenstandnavn": "sprettert"
+    },
+    {
+        "gjenstandnavn": "slynge"
+    },
+    {
+        "gjenstandnavn": "springkniv"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "kategoriid": 2,
+        "kategorinavn": "eksplosive",
+        "kategoribeskrivelse": "gjenstander substanser potensial eksplodere produsere eksplosjon utsettes trigger"
+    },
+    {
+        "kategoriid": 3,
+        "kategorinavn": "brennstoff",
+        "kategoribeskrivelse": "stoffer brenne forbrenne produsere varme energi"
+    },
+    {
+        "kategoriid": 4,
+        "kategorinavn": "kjemisksubstans",
+        "kategoribeskrivelse": "enhver substans består materie definert kjemisk sammensetning"
+    },
+    {
+        "kategoriid": 5,
+        "kategorinavn": "medisin",
+        "kategoribeskrivelse": "legemidler farmasøytiske preparater brukes forebygge behandle lindre symptomer sykdommer lidelser"
+    },
+    {
+        "kategoriid": 6,
+        "kategorinavn": "mat",
+        "kategoribeskrivelse": "enhver substans konsumeres næring kroppen støtte dens funksjon"
+    },
+    {
+        "kategoriid": 7,
+        "kategorinavn": "sportsutstyr",
+        "kategoribeskrivelse": "ulike gjenstander brukes forbindelse sport fritidsaktiviteter"
+    },
+    {
+        "kategoriid": 8,
+        "kategorinavn": "skarpt",
+        "kategoribeskrivelse": "gjenstander skarp kant spiss forårsake skade skjæring"
+    },
+    {
+        "kategoriid": 9,
+        "kategorinavn": "batteri",
+        "kategoribeskrivelse": "enhet lagrer elektrisk energi gir strøm elektriske apparater enheter"
+    },
+    {
+        "kategoriid": 10,
+        "kategorinavn": "verktøy",
+        "kategoribeskrivelse": "gjenstander brukes utføre spesifikke oppgaver jobber"
+    },
+    {
+        "kategoriid": 11,
+        "kategorinavn": "våpen",
+        "kategoribeskrivelse": "enhver gjenstand enhet designet brukt skade skade drepe levende vesener"
+    },
+    {
+        "kategoriid": 1,
+        "kategorinavn": "flytende",
+        "kategoribeskrivelse": "gjenstander substanser flytende smørbart gassform omfattes reglene væske frosne væsker regnes væsker"
+    }
+]

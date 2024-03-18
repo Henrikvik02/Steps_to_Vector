@@ -1,0 +1,57 @@
+[
+    {
+        "kategoriid":2,
+        "kategorinavn":"Eksplosive",
+        "kategoribeskrivelse":"Gjenstander eller substanser som har potensial til å eksplodere eller produsere en eksplosjon når de utsettes for en trigger."
+    },
+    {
+        "kategoriid":3,
+        "kategorinavn":"Brennstoff",
+        "kategoribeskrivelse":"Stoffer som kan brenne eller forbrenne for å produsere varme eller energi."
+    },
+    {
+        "kategoriid":4,
+        "kategorinavn":"KjemiskSubstans",
+        "kategoribeskrivelse":"Enhver substans som består av materie og har en definert kjemisk sammensetning."
+    },
+    {
+        "kategoriid":5,
+        "kategorinavn":"Medisin",
+        "kategoribeskrivelse":"Legemidler eller farmasøytiske preparater som brukes til å forebygge, behandle eller lindre symptomer på sykdommer eller lidelser."
+    },
+    {
+        "kategoriid":6,
+        "kategorinavn":"Mat",
+        "kategoribeskrivelse":"Enhver substans som konsumeres for å gi næring til kroppen og støtte dens funksjon."
+    },
+    {
+        "kategoriid":7,
+        "kategorinavn":"Sportsutstyr",
+        "kategoribeskrivelse":"Ulike gjenstander som brukes i forbindelse med sport eller fritidsaktiviteter."
+    },
+    {
+        "kategoriid":8,
+        "kategorinavn":"Skarpt",
+        "kategoribeskrivelse":"Gjenstander som har en skarp kant eller spiss og kan forårsake skade eller skjæring."
+    },
+    {
+        "kategoriid":9,
+        "kategorinavn":"Batteri",
+        "kategoribeskrivelse":"En enhet som lagrer elektrisk energi og gir strøm til elektriske apparater eller enheter."
+    },
+    {
+        "kategoriid":10,
+        "kategorinavn":"Verktøy",
+        "kategoribeskrivelse":"Gjenstander som brukes til å utføre spesifikke oppgaver eller jobber."
+    },
+    {
+        "kategoriid":11,
+        "kategorinavn":"Våpen",
+        "kategoribeskrivelse":"Enhver gjenstand eller enhet som er designet eller brukt til å skade, skade eller drepe levende vesener."
+    },
+    {
+        "kategoriid":1,
+        "kategorinavn":"Flytende",
+        "kategoribeskrivelse":"Gjenstander eller substanser som er flytende, smørbart eller i gassform omfattes av reglene for væske. Frosne væsker regnes fortsatt som væsker."
+    }
+]

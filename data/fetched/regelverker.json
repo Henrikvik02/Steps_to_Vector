@@ -1,0 +1,452 @@
+[
+    {
+        "regelverkid":3,
+        "kategoriid":1,
+        "betingelse":"Innhold",
+        "verdi":"x<=100ml",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Væskene er i beholdere som rommer inntil 100 milliliter hver (beholdere som rommer mer enn 100 ml er ikke tillatt, uavhengig av hvor mye væske de inneholder). Beholderne er plassert i en gjennomsiktig, gjenlukkbar (\"zip-lock\") og lukket plastpose med kapasitet på høyst 1 liter. Det er kun tillatt med én 1- liters pose per reisende."
+    },
+    {
+        "regelverkid":4,
+        "kategoriid":1,
+        "betingelse":"Innhold",
+        "verdi":"x>100ml",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":11,
+        "kategoriid":9,
+        "betingelse":"Løse og Reserve",
+        "verdi":"100Wh<x<=160Wh",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Maks 2 batterier tillatt i håndbagasjen, og man trenger tillatelse fra flyselskapet"
+    },
+    {
+        "regelverkid":12,
+        "kategoriid":9,
+        "betingelse":"Kraftige",
+        "verdi":"x>160Wh",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Forbudt å frakte i bagasjen. Skal fraktes som last i henhold til regelverket for farlig gods."
+    },
+    {
+        "regelverkid":13,
+        "kategoriid":3,
+        "betingelse":"LightereEngangsGass",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Maks én lighter per person. Lighteren må være plassert i gjennomsiktig 1-liter pose gjennom sikkerhetskontrollen, og må bæres på ens person om bord i flyet."
+    },
+    {
+        "regelverkid":14,
+        "kategoriid":3,
+        "betingelse":"LighterePåfyllbareGass",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Maks én lighter per person. Lighteren må være plassert i gjennomsiktig 1-liter pose gjennom sikkerhetskontrollen, og må bæres på ens person om bord i flyet."
+    },
+    {
+        "regelverkid":15,
+        "kategoriid":3,
+        "betingelse":"LightereMikserLuftOgGass",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Maks én lighter per person. Lighteren må være plassert i gjennomsiktig 1-liter pose gjennom sikkerhetskontrollen, og må bæres på ens person om bord i flyet."
+    },
+    {
+        "regelverkid":16,
+        "kategoriid":3,
+        "betingelse":"LightereFlytendeAbsorbert",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Det må flytende drivstoff absorbert i vatt\/bomull. Maks én lighter per person. Lighteren må være plassert i gjennomsiktig 1-liter pose gjennom sikkerhetskontrollen, og må bæres på ens person om bord i flyet."
+    },
+    {
+        "regelverkid":17,
+        "kategoriid":3,
+        "betingelse":"LightereFlytendeUabsorbert",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":18,
+        "kategoriid":3,
+        "betingelse":"LighterePåfyll",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":19,
+        "kategoriid":3,
+        "betingelse":"Sikkerhetsfyrstikker",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Kun én eske per person"
+    },
+    {
+        "regelverkid":20,
+        "kategoriid":3,
+        "betingelse":"AndreTyperFyrstikker",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":21,
+        "kategoriid":3,
+        "betingelse":"Malingsprodukt",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":22,
+        "kategoriid":3,
+        "betingelse":"Flytende",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":23,
+        "kategoriid":3,
+        "betingelse":"Harde\/reaktive",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":24,
+        "kategoriid":3,
+        "betingelse":"Gass",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":25,
+        "kategoriid":3,
+        "betingelse":"Drivstoffbeholdere",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Gjenstander som har beholdere eller har hat et system med spor av drivstoff er strengt forbudt!"
+    },
+    {
+        "regelverkid":27,
+        "kategoriid":4,
+        "betingelse":"Aerosoler",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Maks 100 ml i håndbagasje, I innsjekketbaggasje er aerosoler klasse 2.2 (ikke brennbar og\/eller giftig drivgass) er tillatt. Maks 500 ml\/g pr enhet, max 2 l\/kg pr pers i innsjekket bagasje"
+    },
+    {
+        "regelverkid":29,
+        "kategoriid":11,
+        "betingelse":"Skytevåpen",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Våpen og våpenliknende gjenstander kan under ingen omstendigheter tas med som håndbagasje, men innsjekket bagasje. Regelen sier at transport av våpen må søkes om og gokjennes før du reiser. Hør med flyselskapet du reiser med i god tid om hvilke regler som gjelder for reisen din. Husk at du må bekrefte at du har gyldig våpenlisens, og vær oppmerksom på at det kan påløpe ekstra kostnader ved frakt av våpen."
+    },
+    {
+        "regelverkid":30,
+        "kategoriid":11,
+        "betingelse":"Våpenetterligninger",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Du kan ta med lekepistoler som overhodet ikke kan forveksles med ordentlige våpen i håndbagasjen. Lekevåpen, etterligninger og imitasjoner som kan forveksles med reelle våpen er ikke tillatt. Sikkerhetskontrolløren avgjør hva som skal stanses."
+    },
+    {
+        "regelverkid":31,
+        "kategoriid":11,
+        "betingelse":"Våpendeler",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Unntak: Det er lov å ha med optikk i håndbagasjen"
+    },
+    {
+        "regelverkid":32,
+        "kategoriid":11,
+        "betingelse":"Ammunisjon",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Det er tillatt å ha med ammunisjon i innsjekket bagasje så lenge flyselskapets prosedyrer for håndtering av våpen og ammunisjon følges. Passasjeren må informere flyselskapet ved innsjekk om at bagasjen inneholder ammunisjon.\n\nKun ammunisjon i fareklasse Div. 1.4S, UN 0012 eller UN 0014 er tillatt. Ammunisjonen skal være forsvarlig pakket. Passasjerer kan ta med inntil 5kg (11 lbs) bruttovekt per person og ammunisjonen må være til passasjerens eget bruk. Ammunisjon med eksploderende eller brennende prosjektiler er ikke tillatt. Det er ikke tillatt å sampakke flere passasjerers tillatte mengde.\n\nMan kan bare ta med ammunisjon til utlandet dersom det er tillatt på bestemmelsesstedet, samt alle steder den reisende mellomlander. Dette må sjekkes med landet du reiser til.\n\nTa kontakt med flyselskapet du reiser med for mer informasjon om pakking av ammunisjon."
+    },
+    {
+        "regelverkid":33,
+        "kategoriid":7,
+        "betingelse":"Køller",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":34,
+        "kategoriid":7,
+        "betingelse":"Kampsportutstyr",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":35,
+        "kategoriid":7,
+        "betingelse":"ElektriskeFramkomstmiddel",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Unntak: Noen flyselskap tillater noen elektriske framkomstmiddel, men er ofte uønsket grunnet brannfare."
+    },
+    {
+        "regelverkid":36,
+        "kategoriid":7,
+        "betingelse":"Skarpeutstyr",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":37,
+        "kategoriid":7,
+        "betingelse":"Fiskeutstyr",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":38,
+        "kategoriid":7,
+        "betingelse":"Teltutstyr",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":39,
+        "kategoriid":7,
+        "betingelse":"Stormkjøkken",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Gjelder også primuser. Er det brukt, kan det medbringes som innsjekket baggasje hos noen flyselskap. Er produktene ubrukt, og inneholder ikke spor av væske så kan det medbringes i innsjekket- og håndbagasje."
+    },
+    {
+        "regelverkid":41,
+        "kategoriid":7,
+        "betingelse":"Skøyter",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Skøyter kan tillates i håndbagasje hvis de ikke utgjør noen trussel grunnet skøytens konstruksjon."
+    },
+    {
+        "regelverkid":43,
+        "kategoriid":5,
+        "betingelse":"Substans",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"100 ml regelen som gjelder for væske, gjelder ikke for flytende medisiner. Flytende medisiner trenger ikke pakkes i 1-liters posen. Trenger medisinen kjølig er det tillatt med kjøleelement. Kjøleelementet må være frosset. Du kan ta med de kjøleelementene du trenger for flyreisen. Hvis du kan medbringe resept er det fint. Da går sikkerhetskontrollen lettere."
+    },
+    {
+        "regelverkid":44,
+        "kategoriid":6,
+        "betingelse":"Fast konsistens",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":45,
+        "kategoriid":6,
+        "betingelse":"Flytende konsistens",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":2,
+        "kategoriid":8,
+        "betingelse":"BladLengde",
+        "verdi":"x>=6cm",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":7,
+        "kategoriid":10,
+        "betingelse":"DrivstoffVerktøy",
+        "verdi":"TRUE",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Unntak: Er gjenstanden uten drivstoffbeholder eller ikke brukt er det lov å ha med i innsjekket bagasje gitt gjenstanden er sikret."
+    },
+    {
+        "regelverkid":28,
+        "kategoriid":4,
+        "betingelse":"Farlige\/giftige",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Forbudet gjelder både innsjekket bagasje og håndbagasje, og inkluderer: Syrer, basiske stoffer. Blekende eller etsende stoffer. Giftige eller smittsomme stoffer. Radioaktivt materiale."
+    },
+    {
+        "regelverkid":5,
+        "kategoriid":10,
+        "betingelse":"Håndverktøy",
+        "verdi":"TRUE",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Gitt objektet ikke har elektriske komponenter"
+    },
+    {
+        "regelverkid":26,
+        "kategoriid":2,
+        "betingelse":"Substans og objekter\n",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Eksplosive stoffer og eller objekt som kan være utløsende faktor for de er generelt ikke tillatt ombord i fly. Flyselskapene kan likevel ha egne bestemmelser som er strengere enn myndighetskravene. Unntak: oksygen tillates i beholdere på maks 500ml\/g per enhet, maks 2l\/kg per person."
+    },
+    {
+        "regelverkid":8,
+        "kategoriid":9,
+        "betingelse":"Montert i Enhet",
+        "verdi":"x<=100Wh",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Trenger ikke tillatelse fra flyselskapet"
+    },
+    {
+        "regelverkid":9,
+        "kategoriid":9,
+        "betingelse":"Montert i Enhet",
+        "verdi":"100Wh<x<=160Wh",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Trenger tillatelse fra flyselskapet"
+    },
+    {
+        "regelverkid":10,
+        "kategoriid":9,
+        "betingelse":"Løse og Reserve",
+        "verdi":"x<=100Wh",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Trenger ikke tillatelse fra flyselskapet"
+    },
+    {
+        "regelverkid":42,
+        "kategoriid":7,
+        "betingelse":"AndreObjekt",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Reglene varierer basert på flyselskap og anskomstland. Kontakt flyselskapet ditt for videre informasjon."
+    },
+    {
+        "regelverkid":6,
+        "kategoriid":10,
+        "betingelse":"ElektriskVerktøy",
+        "verdi":"TRUE",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Mange batterier til verktøy inneholder litium-Ion. Det er kun tillatt med et slikt batteri hvis det står i verktøyet og verktøyet er sikret mot å starte i innsjekket bagasje. Normalt vil det si at det ligger i en transportkasse."
+    },
+    {
+        "regelverkid":47,
+        "kategoriid":3,
+        "betingelse":"Lys",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Lys som har en fast konstistens i romtemperatur er tillatt."
+    },
+    {
+        "regelverkid":40,
+        "kategoriid":7,
+        "betingelse":"AssistanseUtstyr",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Trenger tillatelse fra flyselskapet, og henvend deg til Avinor."
+    },
+    {
+        "regelverkid":48,
+        "kategoriid":5,
+        "betingelse":"Medisinsk utstyr med knivblad",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":1,
+        "kategoriid":8,
+        "betingelse":"BladLengde",
+        "verdi":"x<6cm",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":null
+    },
+    {
+        "regelverkid":49,
+        "kategoriid":10,
+        "betingelse":"Hverdagslig verktøy",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Enkle hverdagslig gjenstander som brukes for å gjøre livet enklere"
+    },
+    {
+        "regelverkid":46,
+        "kategoriid":5,
+        "betingelse":"Enkelt Medisinsk utstyr",
+        "verdi":"true",
+        "tillatthandbagasje":true,
+        "tillattinnsjekketbagasje":true,
+        "regelverkbeskrivelse":"Instrumenter og apparater brukt i medisinsk behandling og diagnostikk."
+    },
+    {
+        "regelverkid":50,
+        "kategoriid":11,
+        "betingelse":"Forbudte våpen",
+        "verdi":"true",
+        "tillatthandbagasje":false,
+        "tillattinnsjekketbagasje":false,
+        "regelverkbeskrivelse":"Forbudte våpen er ulovlig å ha med både i innsjekket og håndbagasje"
+    }
+]

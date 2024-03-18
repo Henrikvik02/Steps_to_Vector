@@ -1,0 +1,2785 @@
+[
+    {
+        "kategorinavn": "våpen",
+        "kategoribeskrivelse": "enhver gjenstand enhet designet brukt skade skade drepe levende vesener",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "ammunisjon",
+                "gjenstandbeskrivelse": "projektiler brukes skytevåpen",
+                "regelverk": {
+                    "betingelse": "ammunisjon",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "tillatt ammunisjon innsjekket bagasje lenge flyselskapets prosedyrer håndtering våpen ammunisjon følges passasjeren informere flyselskapet innsjekk bagasjen inneholder ammunisjon \n\n kun ammunisjon fareklasse div 1.4s un 0012 un 0014 tillatt ammunisjonen forsvarlig pakket passasjerer inntil 5 kg 11 lbs bruttovekt per person ammunisjonen passasjerens eget bruk ammunisjon eksploderende brennende prosjektiler tillatt tillatt sampakke passasjerers tillatte mengde \n\n ammunisjon utlandet dersom tillatt bestemmelsesstedet samt steder reisende mellomlander sjekkes reiser \n\n flyselskapet reiser informasjon pakking ammunisjon"
+                }
+            },
+            {
+                "gjenstandnavn": "harpungevær",
+                "gjenstandbeskrivelse": "våpen designet skyte harpuner ofte brukt undervannsfiske",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "lekepistol",
+                "gjenstandbeskrivelse": "leketøy etterligner utseendet ganger lyden ekte pistol",
+                "regelverk": {
+                    "betingelse": "våpenetterligninger",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "lekepistoler overhodet forveksles ordentlige våpen håndbagasjen lekevåpen etterligninger imitasjoner forveksles reelle våpen tillatt sikkerhetskontrolløren avgjør hva stanses"
+                }
+            },
+            {
+                "gjenstandnavn": "våpenimitasjon",
+                "gjenstandbeskrivelse": "etterligning våpen funksjonelt ofte brukt rekvisitt leketøy",
+                "regelverk": {
+                    "betingelse": "våpenetterligninger",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "lekepistoler overhodet forveksles ordentlige våpen håndbagasjen lekevåpen etterligninger imitasjoner forveksles reelle våpen tillatt sikkerhetskontrolløren avgjør hva stanses"
+                }
+            },
+            {
+                "gjenstandnavn": "luftpistol",
+                "gjenstandbeskrivelse": "våpen bruker trykkluft skyte små prosjektiler",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "pil",
+                "gjenstandbeskrivelse": "prosjektil brukt bue skyte",
+                "regelverk": {
+                    "betingelse": "ammunisjon",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "tillatt ammunisjon innsjekket bagasje lenge flyselskapets prosedyrer håndtering våpen ammunisjon følges passasjeren informere flyselskapet innsjekk bagasjen inneholder ammunisjon \n\n kun ammunisjon fareklasse div 1.4s un 0012 un 0014 tillatt ammunisjonen forsvarlig pakket passasjerer inntil 5 kg 11 lbs bruttovekt per person ammunisjonen passasjerens eget bruk ammunisjon eksploderende brennende prosjektiler tillatt tillatt sampakke passasjerers tillatte mengde \n\n ammunisjon utlandet dersom tillatt bestemmelsesstedet samt steder reisende mellomlander sjekkes reiser \n\n flyselskapet reiser informasjon pakking ammunisjon"
+                }
+            },
+            {
+                "gjenstandnavn": "bue",
+                "gjenstandbeskrivelse": "våpen bøyelig stykke materiale skyter piler hjelp strengen",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "armbrøst",
+                "gjenstandbeskrivelse": "middelaldersk avstandsvåpen skyter piler bolter",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "pil bue",
+                "gjenstandbeskrivelse": "tradisjonelt verktøy våpen bruker elastisk energi skyte piler",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "røykpatrone",
+                "gjenstandbeskrivelse": "beholder aktivering frigjør røyk bruk nødsituasjoner trening",
+                "regelverk": {
+                    "betingelse": "ammunisjon",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "tillatt ammunisjon innsjekket bagasje lenge flyselskapets prosedyrer håndtering våpen ammunisjon følges passasjeren informere flyselskapet innsjekk bagasjen inneholder ammunisjon \n\n kun ammunisjon fareklasse div 1.4s un 0012 un 0014 tillatt ammunisjonen forsvarlig pakket passasjerer inntil 5 kg 11 lbs bruttovekt per person ammunisjonen passasjerens eget bruk ammunisjon eksploderende brennende prosjektiler tillatt tillatt sampakke passasjerers tillatte mengde \n\n ammunisjon utlandet dersom tillatt bestemmelsesstedet samt steder reisende mellomlander sjekkes reiser \n\n flyselskapet reiser informasjon pakking ammunisjon"
+                }
+            },
+            {
+                "gjenstandnavn": "skytevåpen",
+                "gjenstandbeskrivelse": "våpen avfyrer prosjektiler hjelp eksplosiv kraft",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "sprettert",
+                "gjenstandbeskrivelse": "lite håndholdt prosjektilvåpen bruker elastisk energi skyte små objekter",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "slynge",
+                "gjenstandbeskrivelse": "våpen bruker stropp nett kaste tunge prosjektiler",
+                "regelverk": {
+                    "betingelse": "våpenetterligninger",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "lekepistoler overhodet forveksles ordentlige våpen håndbagasjen lekevåpen etterligninger imitasjoner forveksles reelle våpen tillatt sikkerhetskontrolløren avgjør hva stanses"
+                }
+            },
+            {
+                "gjenstandnavn": "startpistol",
+                "gjenstandbeskrivelse": "pistol brukt signalisere starten løp idrettskonkurranser",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "signalpistol",
+                "gjenstandbeskrivelse": "pistol designet avfyre lysraketter signalpatroner nødsignaler",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "våpenetterligning",
+                "gjenstandbeskrivelse": "objekter ekte våpen funksjonelle",
+                "regelverk": {
+                    "betingelse": "våpenetterligninger",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "lekepistoler overhodet forveksles ordentlige våpen håndbagasjen lekevåpen etterligninger imitasjoner forveksles reelle våpen tillatt sikkerhetskontrolløren avgjør hva stanses"
+                }
+            },
+            {
+                "gjenstandnavn": "våpendel",
+                "gjenstandbeskrivelse": "komponenter utgjør brukes montering våpen",
+                "regelverk": {
+                    "betingelse": "våpendeler",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "unntak lov optikk håndbagasjen"
+                }
+            },
+            {
+                "gjenstandnavn": "luftgevær",
+                "gjenstandbeskrivelse": "våpen bruker trykkluft avfyre prosjektiler",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "paintballvåpen",
+                "gjenstandbeskrivelse": "våpen designet skyte malingfylte kuler paintballspill",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "avlivingsutstyr",
+                "gjenstandbeskrivelse": "utstyr brukt avlive dyr human måte",
+                "regelverk": {
+                    "betingelse": "skytevåpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "våpen våpenliknende gjenstander omstendigheter tas håndbagasje innsjekket bagasje regelen transport våpen søkes gokjennes reiser hør flyselskapet reiser hvilke regler gjelder reisen din husk bekrefte gyldig våpenlisens vær oppmerksom påløpe ekstra kostnader frakt våpen"
+                }
+            },
+            {
+                "gjenstandnavn": "elektrosjokkvåpen",
+                "gjenstandbeskrivelse": "ikke-dødelig våpen brukt selvforsvar sender elektriske støt",
+                "regelverk": {
+                    "betingelse": "forbudte våpen",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudte våpen ulovlig innsjekket håndbagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "harpuner",
+                "gjenstandbeskrivelse": "spyd brukt undervannsjakt fisk marine pattedyr",
+                "regelverk": {
+                    "betingelse": "ammunisjon",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "tillatt ammunisjon innsjekket bagasje lenge flyselskapets prosedyrer håndtering våpen ammunisjon følges passasjeren informere flyselskapet innsjekk bagasjen inneholder ammunisjon \n\n kun ammunisjon fareklasse div 1.4s un 0012 un 0014 tillatt ammunisjonen forsvarlig pakket passasjerer inntil 5 kg 11 lbs bruttovekt per person ammunisjonen passasjerens eget bruk ammunisjon eksploderende brennende prosjektiler tillatt tillatt sampakke passasjerers tillatte mengde \n\n ammunisjon utlandet dersom tillatt bestemmelsesstedet samt steder reisende mellomlander sjekkes reiser \n\n flyselskapet reiser informasjon pakking ammunisjon"
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "sportsutstyr",
+        "kategoribeskrivelse": "ulike gjenstander brukes forbindelse sport fritidsaktiviteter",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "balltre",
+                "gjenstandbeskrivelse": "slagredskap brukt idretter baseball",
+                "regelverk": {
+                    "betingelse": "køller",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "biljardkø",
+                "gjenstandbeskrivelse": "tynt stokk brukt slå baller biljard",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "bowlingkule",
+                "gjenstandbeskrivelse": "tung kule brukt bowling slå kjegler",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "dartpil",
+                "gjenstandbeskrivelse": "liten pil brukt spillet dart kaste dartskive",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "fiskestang",
+                "gjenstandbeskrivelse": "verktøy brukt fange fisk hjelp lang linje agn",
+                "regelverk": {
+                    "betingelse": "fiskeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "gåstav",
+                "gjenstandbeskrivelse": "stav brukes støtte spesielt ulendt terreng",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "hoverboard",
+                "gjenstandbeskrivelse": "selvbalanserende scooter bruker gyro-skopiske sensorer tillate brukeren stå oppreist",
+                "regelverk": {
+                    "betingelse": "elektriskeframkomstmiddel",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "unntak flyselskap tillater elektriske framkomstmiddel ofte uønsket grunnet brannfare"
+                }
+            },
+            {
+                "gjenstandnavn": "kampsportsutstyr",
+                "gjenstandbeskrivelse": "utstyr beskyttelse brukt trening konkurranse kampsport",
+                "regelverk": {
+                    "betingelse": "kampsportutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "krykke",
+                "gjenstandbeskrivelse": "støtteanordning brukt skade funksjonshemming hjelpe",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "padleåre",
+                "gjenstandbeskrivelse": "redskap brukt flytte båt vann hjelp muskelkraft",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "redningsvest",
+                "gjenstandbeskrivelse": "oppblåsbar vest brukes sikkerhetsutstyr vannet",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "skateboard",
+                "gjenstandbeskrivelse": "lite brett hjul brukt skateboardkjøring",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "skøyte",
+                "gjenstandbeskrivelse": "sko understell blader gli is",
+                "regelverk": {
+                    "betingelse": "skøyter",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "skøyter tillates håndbagasje hvis utgjør trussel grunnet skøytens konstruksjon"
+                }
+            },
+            {
+                "gjenstandnavn": "sparkesykkel",
+                "gjenstandbeskrivelse": "lite kjøretøy flatt dekk to hjul drevet frem brukerens fotkraft",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "springkniv",
+                "gjenstandbeskrivelse": "kniv blad spretter håndtaket knapp trykkes",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "spyd",
+                "gjenstandbeskrivelse": "tynt våpen designet kastes stikkes",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "stormkjøkken",
+                "gjenstandbeskrivelse": "bærbart kjøkken kokeapparat brukt matlaging utendørs",
+                "regelverk": {
+                    "betingelse": "stormkjøkken",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "gjelder primuser brukt medbringes innsjekket baggasje hos flyselskap produktene ubrukt inneholder spor væske medbringes innsjekket- håndbagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "strikkepinne",
+                "gjenstandbeskrivelse": "tynt verktøy brukt strikking lage løkker garn",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "sverd",
+                "gjenstandbeskrivelse": "håndholdt klingevåpen brukt kutte stikke",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "sabler",
+                "gjenstandbeskrivelse": "lett krummet klingevåpen brukt kavaleriet",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "sykkelpatrone",
+                "gjenstandbeskrivelse": "co2-patrone brukt rask oppumping sykkeldekk",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "rullestol",
+                "gjenstandbeskrivelse": "gjenstand brukt transportere funksjonsnedsatte",
+                "regelverk": {
+                    "betingelse": "assistanseutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet henvend deg avinor"
+                }
+            },
+            {
+                "gjenstandnavn": "telt",
+                "gjenstandbeskrivelse": "bærbar ly ly camping utendørs aktiviteter",
+                "regelverk": {
+                    "betingelse": "teltutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "teltstenge",
+                "gjenstandbeskrivelse": "stang brukt støtte strukturen telt",
+                "regelverk": {
+                    "betingelse": "teltutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "teltplugg",
+                "gjenstandbeskrivelse": "liten pinne stake brukes feste telt bakken",
+                "regelverk": {
+                    "betingelse": "teltutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tennisracket",
+                "gjenstandbeskrivelse": "sportredskap brukt slå tennisball spill",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "isbrodd",
+                "gjenstandbeskrivelse": "anordning festet sko grep isete overflater",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "pinsett",
+                "gjenstandbeskrivelse": "lite verktøy brukt plukke holde små objekter",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "paraply",
+                "gjenstandbeskrivelse": "bærbar anordning designet beskyttelse regn sol",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "heklenål",
+                "gjenstandbeskrivelse": "verktøy brukt håndarbeid lage masker garn tråd",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "sigarkutter",
+                "gjenstandbeskrivelse": "verktøy brukt klippe enden sigar røyking",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "neglefil",
+                "gjenstandbeskrivelse": "verktøy brukt forme glatte kantene neglene",
+                "regelverk": {
+                    "betingelse": "andreobjekt",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "reglene varierer basert flyselskap anskomstland flyselskapet ditt informasjon"
+                }
+            },
+            {
+                "gjenstandnavn": "golfkølle",
+                "gjenstandbeskrivelse": "redskap brukt slå golfball spillet golf",
+                "regelverk": {
+                    "betingelse": "køller",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "ishockeykølle",
+                "gjenstandbeskrivelse": "redskap brukt spille ishockey slå pucken",
+                "regelverk": {
+                    "betingelse": "køller",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "slåsshanske",
+                "gjenstandbeskrivelse": "hanske designet beskytte brukerens hender øke slagkraften kampsport",
+                "regelverk": {
+                    "betingelse": "kampsportutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "klubbe",
+                "gjenstandbeskrivelse": "stykke tre brukt tradisjonelle kamsporttyper",
+                "regelverk": {
+                    "betingelse": "kampsportutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "batong",
+                "gjenstandbeskrivelse": "stokk brukt våpen ofte politi kontrollere folkemengder",
+                "regelverk": {
+                    "betingelse": "kampsportutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "nunchakoer",
+                "gjenstandbeskrivelse": "tradisjonell asiatisk kampsportvåpen bestående to staver koblet kjede",
+                "regelverk": {
+                    "betingelse": "kampsportutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kastestjerne",
+                "gjenstandbeskrivelse": "stjernformet metallvåpen spisse ender brukt kampsport",
+                "regelverk": {
+                    "betingelse": "kampsportutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kårde",
+                "gjenstandbeskrivelse": "lett tynt sverd brukt fekting dueller",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "machete",
+                "gjenstandbeskrivelse": "tungt knivlignende verktøy brukt kutte tykk vegetasjon",
+                "regelverk": {
+                    "betingelse": "skarpeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "fiskekrok",
+                "gjenstandbeskrivelse": "metallkrok brukt fange fisk feste agn",
+                "regelverk": {
+                    "betingelse": "fiskeutstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "segway",
+                "gjenstandbeskrivelse": "elektrisk selvbalanserende persontransportmiddel to hjul",
+                "regelverk": {
+                    "betingelse": "elektriskeframkomstmiddel",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "unntak flyselskap tillater elektriske framkomstmiddel ofte uønsket grunnet brannfare"
+                }
+            },
+            {
+                "gjenstandnavn": "solowheel",
+                "gjenstandbeskrivelse": "enkelthjuls elektrisk kjøretøy balanseres brukeren",
+                "regelverk": {
+                    "betingelse": "elektriskeframkomstmiddel",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "unntak flyselskap tillater elektriske framkomstmiddel ofte uønsket grunnet brannfare"
+                }
+            },
+            {
+                "gjenstandnavn": "balance glider",
+                "gjenstandbeskrivelse": "selvbalanserende brett to hjul kjent hoverboard",
+                "regelverk": {
+                    "betingelse": "elektriskeframkomstmiddel",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "unntak flyselskap tillater elektriske framkomstmiddel ofte uønsket grunnet brannfare"
+                }
+            },
+            {
+                "gjenstandnavn": "primus",
+                "gjenstandbeskrivelse": "bærbart kokeapparat bruker brennstoff gass bensin utendørs matlaging",
+                "regelverk": {
+                    "betingelse": "stormkjøkken",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "gjelder primuser brukt medbringes innsjekket baggasje hos flyselskap produktene ubrukt inneholder spor væske medbringes innsjekket- håndbagasje"
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "skarpt",
+        "kategoribeskrivelse": "gjenstander skarp kant spiss forårsake skade skjæring",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "barberblader",
+                "gjenstandbeskrivelse": "tynne blader brukt fjerne hår barbering",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "barberblader",
+                "gjenstandbeskrivelse": "tynne blader brukt fjerne hår barbering",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "barberhøvel",
+                "gjenstandbeskrivelse": "verktøy barbering holder barberblader",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "barberhøvel",
+                "gjenstandbeskrivelse": "verktøy barbering holder barberblader",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "bor",
+                "gjenstandbeskrivelse": "skjærende verktøy lage hull",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "bor",
+                "gjenstandbeskrivelse": "skjærende verktøy lage hull",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "isøks",
+                "gjenstandbeskrivelse": "verktøy brukt fjellklatring isklatring hjelpe bevegelse is",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "isøks",
+                "gjenstandbeskrivelse": "verktøy brukt fjellklatring isklatring hjelpe bevegelse is",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "ishakke",
+                "gjenstandbeskrivelse": "verktøy bryte forme is ofte brukt isklatring",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "ishakke",
+                "gjenstandbeskrivelse": "verktøy bryte forme is ofte brukt isklatring",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kniv",
+                "gjenstandbeskrivelse": "verktøy våpen blad kutte",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kniv",
+                "gjenstandbeskrivelse": "verktøy våpen blad kutte",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "neglklipper",
+                "gjenstandbeskrivelse": "lite verktøy klippe negler hender føtter",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "saks",
+                "gjenstandbeskrivelse": "håndholdt verktøy to blader glir hverandre klippe materialer",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "saks",
+                "gjenstandbeskrivelse": "håndholdt verktøy to blader glir hverandre klippe materialer",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "skrujern",
+                "gjenstandbeskrivelse": "verktøy skru skruer",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "skrujern",
+                "gjenstandbeskrivelse": "verktøy skru skruer",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tapetkniv",
+                "gjenstandbeskrivelse": "skarpt verktøy brukt kutte tapet materialer",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tapetkniv",
+                "gjenstandbeskrivelse": "skarpt verktøy brukt kutte tapet materialer",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "lommekniv",
+                "gjenstandbeskrivelse": "liten kniv blader foldes håndtaket",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "lommekniv",
+                "gjenstandbeskrivelse": "liten kniv blader foldes håndtaket",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "engangshøvle",
+                "gjenstandbeskrivelse": "høvel blad engangsbruk ofte brukt barbering",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "engangshøvle",
+                "gjenstandbeskrivelse": "høvel blad engangsbruk ofte brukt barbering",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "bunadssølje",
+                "gjenstandbeskrivelse": "tradisjonelt norsk smykke brukt bunader folkedrakter",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x<6 cm",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "bunadssølje",
+                "gjenstandbeskrivelse": "tradisjonelt norsk smykke brukt bunader folkedrakter",
+                "regelverk": {
+                    "betingelse": "bladlengde",
+                    "verdi": "x>=6 cm",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "verktøy",
+        "kategoribeskrivelse": "gjenstander brukes utføre spesifikke oppgaver jobber",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "blåselampe",
+                "gjenstandbeskrivelse": "verktøy produserer intens flamme blåse brennstoff dyse",
+                "regelverk": {
+                    "betingelse": "drivstoffverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "unntak gjenstanden drivstoffbeholder brukt lov innsjekket bagasje gitt gjenstanden sikret"
+                }
+            },
+            {
+                "gjenstandnavn": "boremaskin",
+                "gjenstandbeskrivelse": "verktøy lage hull ulike materialer",
+                "regelverk": {
+                    "betingelse": "elektriskverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "batterier verktøy inneholder litium-ion kun tillatt slikt batteri hvis verktøyet verktøyet sikret starte innsjekket bagasje normalt si transportkasse"
+                }
+            },
+            {
+                "gjenstandnavn": "drill",
+                "gjenstandbeskrivelse": "motorisert verktøy brukt bore hull skru skruer",
+                "regelverk": {
+                    "betingelse": "elektriskverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "batterier verktøy inneholder litium-ion kun tillatt slikt batteri hvis verktøyet verktøyet sikret starte innsjekket bagasje normalt si transportkasse"
+                }
+            },
+            {
+                "gjenstandnavn": "brekkjern",
+                "gjenstandbeskrivelse": "verktøy brukt løfte bryte åpne objekter",
+                "regelverk": {
+                    "betingelse": "håndverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "gitt objektet elektriske komponenter"
+                }
+            },
+            {
+                "gjenstandnavn": "håndjern",
+                "gjenstandbeskrivelse": "låsbart anordning brukt begrense bevegelsene hender",
+                "regelverk": {
+                    "betingelse": "håndverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "gitt objektet elektriske komponenter"
+                }
+            },
+            {
+                "gjenstandnavn": "sag",
+                "gjenstandbeskrivelse": "verktøy tannet blad kutte materialer tre",
+                "regelverk": {
+                    "betingelse": "håndverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "gitt objektet elektriske komponenter"
+                }
+            },
+            {
+                "gjenstandnavn": "meisel",
+                "gjenstandbeskrivelse": "håndverktøy skarpt blad forme kutte harde materialer",
+                "regelverk": {
+                    "betingelse": "håndverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "gitt objektet elektriske komponenter"
+                }
+            },
+            {
+                "gjenstandnavn": "spikerpistol",
+                "gjenstandbeskrivelse": "verktøy driver spiker tre materiale hjelp trykkluft elektrisitet",
+                "regelverk": {
+                    "betingelse": "elektriskverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "batterier verktøy inneholder litium-ion kun tillatt slikt batteri hvis verktøyet verktøyet sikret starte innsjekket bagasje normalt si transportkasse"
+                }
+            },
+            {
+                "gjenstandnavn": "øks",
+                "gjenstandbeskrivelse": "verktøy tungt blad festet håndtak brukt hugge",
+                "regelverk": {
+                    "betingelse": "håndverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "gitt objektet elektriske komponenter"
+                }
+            },
+            {
+                "gjenstandnavn": "kjøttøks",
+                "gjenstandbeskrivelse": "tung øks brukt spesielt kutte kjøtt bein",
+                "regelverk": {
+                    "betingelse": "håndverktøy",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "gitt objektet elektriske komponenter"
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "mat",
+        "kategoribeskrivelse": "enhver substans konsumeres næring kroppen støtte dens funksjon",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "brunost",
+                "gjenstandbeskrivelse": "type brun søt ost kjent norge",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "hvitost",
+                "gjenstandbeskrivelse": "generell betegnelse ost hvit farge variere smak tekstur",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "bær",
+                "gjenstandbeskrivelse": "små saftige frukter ofte spiselige rike vitaminer",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "egg",
+                "gjenstandbeskrivelse": "matvare produsert fugler reptiler fisker ofte brukt matlaging",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "fisk",
+                "gjenstandbeskrivelse": "vannlevende virveldyr ofte brukes mat",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "frukt",
+                "gjenstandbeskrivelse": "spiselige delen planter inneholder frø ofte søt saftig",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "grøt",
+                "gjenstandbeskrivelse": "matrett vanligvis kokte kornprodukter ofte servert varm",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "pudding",
+                "gjenstandbeskrivelse": "dessert basert stivelse ris brød ofte smakstilsetninger",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "gelé",
+                "gjenstandbeskrivelse": "matrett stivne juice infusjoner ofte søt brukt dessert",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "krem",
+                "gjenstandbeskrivelse": "tykt rikt produkt melk høyt fettinnhold ofte brukt matlaging baking",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "bakverk fyll",
+                "gjenstandbeskrivelse": "type bakverk fylt søte salte ingredienser",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kakebunn",
+                "gjenstandbeskrivelse": "grunnlaget typer kaker ofte enkel svampekake",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tørre kake",
+                "gjenstandbeskrivelse": "kake lav fuktighet ofte sprø tekstur",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tørre kjeks",
+                "gjenstandbeskrivelse": "harde tørre småkaker ofte servert te kaffe",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tørre cookies",
+                "gjenstandbeskrivelse": "type småkake vanligvis søt sprø tørr",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kaviar tube",
+                "gjenstandbeskrivelse": "kaviar pakket tube enkel servering oppbevaring",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kjøtt",
+                "gjenstandbeskrivelse": "muskelvev dyr brukt mat",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kjøttfarse",
+                "gjenstandbeskrivelse": "malt finhakket kjøtt ofte brukt matlaging",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kokosnøtt",
+                "gjenstandbeskrivelse": "harde frukten kokospalmen brukt matlaging drikke",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "kokosmelk",
+                "gjenstandbeskrivelse": "melkeaktig væske ekstrahert kjøttet moden kokosnøtt",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "matpakke",
+                "gjenstandbeskrivelse": "beholder mat hjemmefra spise måltid hjemmet",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "prim",
+                "gjenstandbeskrivelse": "myk spiselig ferskost ofte brukt brød",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "muggost",
+                "gjenstandbeskrivelse": "ost modnet edel mugg utvikle smak",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "smøre-ost",
+                "gjenstandbeskrivelse": "kremet smørbar ost brukt pålegg",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "proteindrikk",
+                "gjenstandbeskrivelse": "drikk rik proteiner ofte brukt supplement trening",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "sportsdrikk",
+                "gjenstandbeskrivelse": "drikk designet hjelpe idrettsutøvere rehydrere trening",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "proteinpulver",
+                "gjenstandbeskrivelse": "kosttilskudd pulverform rikt proteiner muskelbygging reparasjon",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "rogn",
+                "gjenstandbeskrivelse": "fiskeegg ofte brukes mat produksjon kaviar",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "sjokolade",
+                "gjenstandbeskrivelse": "søt populær konfekt kakao sukker",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "konfekt",
+                "gjenstandbeskrivelse": "type søtsaker sjokolader ofte gitt gave",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "porøs sjokolade",
+                "gjenstandbeskrivelse": "sjokolade lett luftig tekstur",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "sjokoladepålegg",
+                "gjenstandbeskrivelse": "smørbar sjokoladekrem ofte brukt pålegg brød",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "smør",
+                "gjenstandbeskrivelse": "meieriprodukt kjerne fløte brukt pålegg matlaging",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "margarin",
+                "gjenstandbeskrivelse": "smørbart matfett ofte brukt vegetarisk alternativ smør",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "syltetøy",
+                "gjenstandbeskrivelse": "tykk blanding frukt sukker kokt geléaktig",
+                "regelverk": {
+                    "betingelse": "flytende konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "trankapsler",
+                "gjenstandbeskrivelse": "kosttilskudd kapsler fylt fiskeolje rik omega-3 fettsyrer",
+                "regelverk": {
+                    "betingelse": "fast konsistens",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "flytende",
+        "kategoribeskrivelse": "gjenstander substanser flytende smørbart gassform omfattes reglene væske frosne væsker regnes væsker",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "deodorant",
+                "gjenstandbeskrivelse": "produkt designet eliminere maskere kroppslukt",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "deodorant",
+                "gjenstandbeskrivelse": "produkt designet eliminere maskere kroppslukt",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "desinfeksjonsvæske",
+                "gjenstandbeskrivelse": "væske brukt drepe bakterier virus overflater",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "desinfeksjonsvæske",
+                "gjenstandbeskrivelse": "væske brukt drepe bakterier virus overflater",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "desinfiserende våtserviett",
+                "gjenstandbeskrivelse": "våtserviett impregnert desinfiserende middel rengjøring",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "desinfiserende våtserviett",
+                "gjenstandbeskrivelse": "våtserviett impregnert desinfiserende middel rengjøring",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "hudkrem",
+                "gjenstandbeskrivelse": "produkt brukt fukte beskytte huden",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "hudkrem",
+                "gjenstandbeskrivelse": "produkt brukt fukte beskytte huden",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "lotion",
+                "gjenstandbeskrivelse": "flytende krem hudpleie fukter mykgjør huden",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "lotion",
+                "gjenstandbeskrivelse": "flytende krem hudpleie fukter mykgjør huden",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "leppestift",
+                "gjenstandbeskrivelse": "kosmetisk produkt påføres leppene farge tekstur",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "solstift",
+                "gjenstandbeskrivelse": "stift brukt beskytte lepper solens skadelige stråler",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "dekkstift",
+                "gjenstandbeskrivelse": "kosmetisk produkt brukt dekke hudfeil kviser mørke ringer",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "lipgloss",
+                "gjenstandbeskrivelse": "kosmetisk produkt gir leppene glanset finish",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "potteplante",
+                "gjenstandbeskrivelse": "plante dyrket plantet potte innendørs bruk",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "potteplante",
+                "gjenstandbeskrivelse": "plante dyrket plantet potte innendørs bruk",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "sjampo",
+                "gjenstandbeskrivelse": "rengjøringsprodukt hår hodebunn",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "sjampo",
+                "gjenstandbeskrivelse": "rengjøringsprodukt hår hodebunn",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "såpe",
+                "gjenstandbeskrivelse": "såpe væskeform brukt håndvask kroppsrengjøring",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "såpe",
+                "gjenstandbeskrivelse": "såpe væskeform brukt håndvask kroppsrengjøring",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "tannkrem",
+                "gjenstandbeskrivelse": "pasta brukt tannbørste rense beskytte tennene",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "tannkrem",
+                "gjenstandbeskrivelse": "pasta brukt tannbørste rense beskytte tennene",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "parfyme",
+                "gjenstandbeskrivelse": "blanding duftende essensielle oljer aromaforbindelser brukt kroppen behagelig lukt",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "parfyme",
+                "gjenstandbeskrivelse": "blanding duftende essensielle oljer aromaforbindelser brukt kroppen behagelig lukt",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "linsevæske",
+                "gjenstandbeskrivelse": "steril løsning brukt rense skylle desinfisere kontaktlinser",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "linsevæske",
+                "gjenstandbeskrivelse": "steril løsning brukt rense skylle desinfisere kontaktlinser",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "shampo",
+                "gjenstandbeskrivelse": "hårpleieprodukt designet rense hodebunnen håret fjerne skitt oljer hudpartikler",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "shampo",
+                "gjenstandbeskrivelse": "hårpleieprodukt designet rense hodebunnen håret fjerne skitt oljer hudpartikler",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "balsam",
+                "gjenstandbeskrivelse": "hårpleieprodukt brukt shampo håret mykere lettere gre",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "balsam",
+                "gjenstandbeskrivelse": "hårpleieprodukt brukt shampo håret mykere lettere gre",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "vann",
+                "gjenstandbeskrivelse": "gjennomsiktig luktfri smakløs væske essensiell fleste kjente livsformer",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x<=100ml",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "væskene beholdere rommer inntil 100 milliliter hver beholdere rommer 100 ml tillatt uavhengig hvor væske inneholder beholderne plassert gjennomsiktig gjenlukkbar zip-lock lukket plastpose kapasitet høyst 1 liter kun tillatt én 1- liters pose per reisende"
+                }
+            },
+            {
+                "gjenstandnavn": "vann",
+                "gjenstandbeskrivelse": "gjennomsiktig luktfri smakløs væske essensiell fleste kjente livsformer",
+                "regelverk": {
+                    "betingelse": "innhold",
+                    "verdi": "x>100ml",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "eksplosive",
+        "kategoribeskrivelse": "gjenstander substanser potensial eksplodere produsere eksplosjon utsettes trigger",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "detonator",
+                "gjenstandbeskrivelse": "enhet brukt utløse eksplosiver",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "lunte",
+                "gjenstandbeskrivelse": "brennbar streng brukt tenne eksplosiver kontrollert måte",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "dynamitt",
+                "gjenstandbeskrivelse": "eksplosivt materiale brukt sprengningsarbeid",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "krutt",
+                "gjenstandbeskrivelse": "brennbart pulver brukt drivmiddel skytevåpen fyrverkeri",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "plastiske sprengstoff",
+                "gjenstandbeskrivelse": "formbart eksplosivt materiale brukt militære sivile applikasjoner",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "fenghett",
+                "gjenstandbeskrivelse": "komponent ammunisjon tenner kruttet patronen",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "pyroteknisk utstyr",
+                "gjenstandbeskrivelse": "enheter designet produsere lys lyd røyk eksplosjoner fyrverkeri",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "mine",
+                "gjenstandbeskrivelse": "eksplosivt våpen detoneres nærhet",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "granat",
+                "gjenstandbeskrivelse": "håndkastet skytevåpen-lansert eksplosivt våpen",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "sprengstoff",
+                "gjenstandbeskrivelse": "sterkt eksplosivt materiale brukt konstruksjon gruvedrift militæret",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            },
+            {
+                "gjenstandnavn": "røykbombe",
+                "gjenstandbeskrivelse": "enhet produserer mengde røyk brukt signalering skjerming",
+                "regelverk": {
+                    "betingelse": "substans objekter \n",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "eksplosive stoffer objekt utløsende faktor generelt tillatt ombord fly flyselskapene likevel egne bestemmelser strengere myndighetskravene unntak oksygen tillates beholdere maks 500ml g per enhet maks 2l kg per person"
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "batteri",
+        "kategoribeskrivelse": "enhet lagrer elektrisk energi gir strøm elektriske apparater enheter",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "elektronikk",
+                "gjenstandbeskrivelse": "enheter fungerer manipulere strøm inkludert datamaskiner mobiltelefoner",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektronikk",
+                "gjenstandbeskrivelse": "enheter fungerer manipulere strøm inkludert datamaskiner mobiltelefoner",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektronikk",
+                "gjenstandbeskrivelse": "enheter fungerer manipulere strøm inkludert datamaskiner mobiltelefoner",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektronikk",
+                "gjenstandbeskrivelse": "enheter fungerer manipulere strøm inkludert datamaskiner mobiltelefoner",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks 2 batterier tillatt håndbagasjen trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektronikk",
+                "gjenstandbeskrivelse": "enheter fungerer manipulere strøm inkludert datamaskiner mobiltelefoner",
+                "regelverk": {
+                    "betingelse": "kraftige",
+                    "verdi": "x>160wh",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudt frakte bagasjen fraktes last henhold regelverket farlig gods"
+                }
+            },
+            {
+                "gjenstandnavn": "elektroniske sigaretter",
+                "gjenstandbeskrivelse": "enhet brukt imitere røyking bruk tobakk",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektroniske sigaretter",
+                "gjenstandbeskrivelse": "enhet brukt imitere røyking bruk tobakk",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektroniske sigaretter",
+                "gjenstandbeskrivelse": "enhet brukt imitere røyking bruk tobakk",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektroniske sigaretter",
+                "gjenstandbeskrivelse": "enhet brukt imitere røyking bruk tobakk",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks 2 batterier tillatt håndbagasjen trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "elektroniske sigaretter",
+                "gjenstandbeskrivelse": "enhet brukt imitere røyking bruk tobakk",
+                "regelverk": {
+                    "betingelse": "kraftige",
+                    "verdi": "x>160wh",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudt frakte bagasjen fraktes last henhold regelverket farlig gods"
+                }
+            },
+            {
+                "gjenstandnavn": "pc",
+                "gjenstandbeskrivelse": "personlig datamaskin brukt ulike digitale oppgaver",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "pc",
+                "gjenstandbeskrivelse": "personlig datamaskin brukt ulike digitale oppgaver",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "pc",
+                "gjenstandbeskrivelse": "personlig datamaskin brukt ulike digitale oppgaver",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "pc",
+                "gjenstandbeskrivelse": "personlig datamaskin brukt ulike digitale oppgaver",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks 2 batterier tillatt håndbagasjen trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "pc",
+                "gjenstandbeskrivelse": "personlig datamaskin brukt ulike digitale oppgaver",
+                "regelverk": {
+                    "betingelse": "kraftige",
+                    "verdi": "x>160wh",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudt frakte bagasjen fraktes last henhold regelverket farlig gods"
+                }
+            },
+            {
+                "gjenstandnavn": "nettbrett",
+                "gjenstandbeskrivelse": "flat bærbar datamaskin berøringsskjerm",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "nettbrett",
+                "gjenstandbeskrivelse": "flat bærbar datamaskin berøringsskjerm",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "nettbrett",
+                "gjenstandbeskrivelse": "flat bærbar datamaskin berøringsskjerm",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "nettbrett",
+                "gjenstandbeskrivelse": "flat bærbar datamaskin berøringsskjerm",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks 2 batterier tillatt håndbagasjen trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "nettbrett",
+                "gjenstandbeskrivelse": "flat bærbar datamaskin berøringsskjerm",
+                "regelverk": {
+                    "betingelse": "kraftige",
+                    "verdi": "x>160wh",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudt frakte bagasjen fraktes last henhold regelverket farlig gods"
+                }
+            },
+            {
+                "gjenstandnavn": "powerbank",
+                "gjenstandbeskrivelse": "bærbar enhet brukes lade elektroniske enheter via usb-grensesnitt",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "powerbank",
+                "gjenstandbeskrivelse": "bærbar enhet brukes lade elektroniske enheter via usb-grensesnitt",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "powerbank",
+                "gjenstandbeskrivelse": "bærbar enhet brukes lade elektroniske enheter via usb-grensesnitt",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "powerbank",
+                "gjenstandbeskrivelse": "bærbar enhet brukes lade elektroniske enheter via usb-grensesnitt",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks 2 batterier tillatt håndbagasjen trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "powerbank",
+                "gjenstandbeskrivelse": "bærbar enhet brukes lade elektroniske enheter via usb-grensesnitt",
+                "regelverk": {
+                    "betingelse": "kraftige",
+                    "verdi": "x>160wh",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudt frakte bagasjen fraktes last henhold regelverket farlig gods"
+                }
+            },
+            {
+                "gjenstandnavn": "mobiltelefon",
+                "gjenstandbeskrivelse": "teknologisk gjenstand batteri",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "mobiltelefon",
+                "gjenstandbeskrivelse": "teknologisk gjenstand batteri",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "mobiltelefon",
+                "gjenstandbeskrivelse": "teknologisk gjenstand batteri",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "mobiltelefon",
+                "gjenstandbeskrivelse": "teknologisk gjenstand batteri",
+                "regelverk": {
+                    "betingelse": "løse reserve",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks 2 batterier tillatt håndbagasjen trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "mobiltelefon",
+                "gjenstandbeskrivelse": "teknologisk gjenstand batteri",
+                "regelverk": {
+                    "betingelse": "kraftige",
+                    "verdi": "x>160wh",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "forbudt frakte bagasjen fraktes last henhold regelverket farlig gods"
+                }
+            },
+            {
+                "gjenstandnavn": "ørepropper",
+                "gjenstandbeskrivelse": "ørepropper gjenstander batteri høre trådløss musikk",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "x<=100wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            },
+            {
+                "gjenstandnavn": "ørepropper",
+                "gjenstandbeskrivelse": "ørepropper gjenstander batteri høre trådløss musikk",
+                "regelverk": {
+                    "betingelse": "montert enhet",
+                    "verdi": "100wh < x<=160wh",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "trenger tillatelse flyselskapet"
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "brennstoff",
+        "kategoribeskrivelse": "stoffer brenne forbrenne produsere varme energi",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "fyrstikk",
+                "gjenstandbeskrivelse": "liten pinne brennbart hode tennes friksjon",
+                "regelverk": {
+                    "betingelse": "sikkerhetsfyrstikker",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "kun én eske per person"
+                }
+            },
+            {
+                "gjenstandnavn": "fyrstikk",
+                "gjenstandbeskrivelse": "liten pinne brennbart hode tennes friksjon",
+                "regelverk": {
+                    "betingelse": "andretyperfyrstikker",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "lighter",
+                "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys",
+                "regelverk": {
+                    "betingelse": "lightereengangsgass",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "lighter",
+                "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys",
+                "regelverk": {
+                    "betingelse": "lighterepåfyllbaregass",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "lighter",
+                "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys",
+                "regelverk": {
+                    "betingelse": "lighteremikserluftoggass",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "lighter",
+                "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys",
+                "regelverk": {
+                    "betingelse": "lightereflytendeabsorbert",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "flytende drivstoff absorbert vatt bomull maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "lighter",
+                "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys",
+                "regelverk": {
+                    "betingelse": "lightereflytendeuabsorbert",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "lighter",
+                "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys",
+                "regelverk": {
+                    "betingelse": "lighterepåfyll",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": null
+                }
+            },
+            {
+                "gjenstandnavn": "stearinlys",
+                "gjenstandbeskrivelse": "lyskilde stearin voks veke midten",
+                "regelverk": {
+                    "betingelse": "lys",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "lys fast konstistens romtemperatur tillatt"
+                }
+            },
+            {
+                "gjenstandnavn": "telys",
+                "gjenstandbeskrivelse": "lite stearinlys tynn metall- plastkopp brukt dekorasjon stemningsskaping",
+                "regelverk": {
+                    "betingelse": "lys",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "lys fast konstistens romtemperatur tillatt"
+                }
+            },
+            {
+                "gjenstandnavn": "drivstoffbeholder",
+                "gjenstandbeskrivelse": "beholder designet lagre drivstoff sikkert",
+                "regelverk": {
+                    "betingelse": "drivstoffbeholdere",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "gjenstander beholdere hat system spor drivstoff strengt forbudt"
+                }
+            },
+            {
+                "gjenstandnavn": "gasslighter",
+                "gjenstandbeskrivelse": "type lighter bruker gass brennstoff",
+                "regelverk": {
+                    "betingelse": "lightereengangsgass",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "gasslighter",
+                "gjenstandbeskrivelse": "type lighter bruker gass brennstoff",
+                "regelverk": {
+                    "betingelse": "lighterepåfyllbaregass",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "gasslighter",
+                "gjenstandbeskrivelse": "type lighter bruker gass brennstoff",
+                "regelverk": {
+                    "betingelse": "lighteremikserluftoggass",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "maks én lighter per person lighteren plassert gjennomsiktig 1-liter pose sikkerhetskontrollen bæres ens person bord flyet"
+                }
+            },
+            {
+                "gjenstandnavn": "sikkerhetsfyrstikke",
+                "gjenstandbeskrivelse": "type fyrstikk kun tennes spesiell overflate",
+                "regelverk": {
+                    "betingelse": "sikkerhetsfyrstikker",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": false,
+                    "regelverkbeskrivelse": "kun én eske per person"
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "medisin",
+        "kategoribeskrivelse": "legemidler farmasøytiske preparater brukes forebygge behandle lindre symptomer sykdommer lidelser",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "medisinsk utstyr",
+                "gjenstandbeskrivelse": "instrumenter apparater brukt medisinsk behandling diagnostikk",
+                "regelverk": {
+                    "betingelse": "enkelt medisinsk utstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "instrumenter apparater brukt medisinsk behandling diagnostikk"
+                }
+            },
+            {
+                "gjenstandnavn": "sprøyte",
+                "gjenstandbeskrivelse": "medisinsk instrument brukt injisere væsker trekke kroppen",
+                "regelverk": {
+                    "betingelse": "enkelt medisinsk utstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "instrumenter apparater brukt medisinsk behandling diagnostikk"
+                }
+            },
+            {
+                "gjenstandnavn": "sprøytespiss",
+                "gjenstandbeskrivelse": "delen sprøyte gjennomborer huden levere trekke væske",
+                "regelverk": {
+                    "betingelse": "enkelt medisinsk utstyr",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "instrumenter apparater brukt medisinsk behandling diagnostikk"
+                }
+            },
+            {
+                "gjenstandnavn": "skalpell",
+                "gjenstandbeskrivelse": "skarpt kirurgisk instrument brukt medisinske prosedyrer",
+                "regelverk": {
+                    "betingelse": "medisinsk utstyr knivblad",
+                    "verdi": "true",
+                    "tillatthandbagasje": false,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": null
+                }
+            }
+        ]
+    },
+    {
+        "kategorinavn": "kjemisksubstans",
+        "kategoribeskrivelse": "enhver substans består materie definert kjemisk sammensetning",
+        "gjenstander": [
+            {
+                "gjenstandnavn": "aerosol",
+                "gjenstandbeskrivelse": "beholder sprayer innholdet fin tåke trykk",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "brannslokningsapparat",
+                "gjenstandbeskrivelse": "enhet brukt slukke branner nødsituasjoner",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "pepperspray",
+                "gjenstandbeskrivelse": "selvforsvarsprodukt sprøyter brennende substans",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "tåregass",
+                "gjenstandbeskrivelse": "kjemisk substans forårsaker tåreflod ubehag brukt kontroll folkemengder",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "syre",
+                "gjenstandbeskrivelse": "kjemisk substans høy ph-verdi brukt forskjellige industrielle vitenskapelige applikasjoner",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "basiske stoff",
+                "gjenstandbeskrivelse": "kjemiske stoffer ph-verdi 7 ofte brukt rengjøring",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "kvikksølv",
+                "gjenstandbeskrivelse": "tungmetall flytende romtemperatur brukt termometre",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "klor",
+                "gjenstandbeskrivelse": "kjemisk element brukt desinfeksjon blekemiddel",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "bilbatteri",
+                "gjenstandbeskrivelse": "enhet lagrer elektrisk energi starte bilmotor",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "rottegift",
+                "gjenstandbeskrivelse": "kjemisk stoff brukt kontrollere rotte- musepopulasjoner",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "infisert blod",
+                "gjenstandbeskrivelse": "blod inneholder skadelige patogener virus bakterier",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "bakterie",
+                "gjenstandbeskrivelse": "mikroorganismer finnes overalt miljøet skadelige nyttige",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "virus",
+                "gjenstandbeskrivelse": "mikroskopiske infeksjonsfremkallende agenter forårsake sykdom",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            },
+            {
+                "gjenstandnavn": "radioaktivt materiale",
+                "gjenstandbeskrivelse": "stoffer utstråler ioniserende stråling brukt medisin industri",
+                "regelverk": {
+                    "betingelse": "aerosoler",
+                    "verdi": "true",
+                    "tillatthandbagasje": true,
+                    "tillattinnsjekketbagasje": true,
+                    "regelverkbeskrivelse": "maks 100 ml håndbagasje innsjekketbaggasje aerosoler klasse 2.2 brennbar giftig drivgass tillatt maks 500 ml g pr enhet max 2 l kg pr pers innsjekket bagasje"
+                }
+            }
+        ]
+    }
+]

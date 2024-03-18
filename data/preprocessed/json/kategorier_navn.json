@@ -1,0 +1,35 @@
+[
+    {
+        "kategorinavn": "eksplosive"
+    },
+    {
+        "kategorinavn": "brennstoff"
+    },
+    {
+        "kategorinavn": "kjemisksubstans"
+    },
+    {
+        "kategorinavn": "medisin"
+    },
+    {
+        "kategorinavn": "mat"
+    },
+    {
+        "kategorinavn": "sportsutstyr"
+    },
+    {
+        "kategorinavn": "skarpt"
+    },
+    {
+        "kategorinavn": "batteri"
+    },
+    {
+        "kategorinavn": "verktøy"
+    },
+    {
+        "kategorinavn": "våpen"
+    },
+    {
+        "kategorinavn": "flytende"
+    }
+]

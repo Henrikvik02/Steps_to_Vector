@@ -1,0 +1,2 @@
+[spacy_models]
+nb_min_modell = nb_min_modell

@@ -1,0 +1,754 @@
+[
+    {
+        "gjenstandnavn": "rullestol",
+        "gjenstandbeskrivelse": "gjenstand brukt transportere funksjonsnedsatte"
+    },
+    {
+        "gjenstandnavn": "skalpell",
+        "gjenstandbeskrivelse": "skarpt kirurgisk instrument brukt medisinske prosedyrer"
+    },
+    {
+        "gjenstandnavn": "engangshøvle",
+        "gjenstandbeskrivelse": "høvel blad engangsbruk ofte brukt barbering"
+    },
+    {
+        "gjenstandnavn": "pinsett",
+        "gjenstandbeskrivelse": "lite verktøy brukt plukke holde små objekter"
+    },
+    {
+        "gjenstandnavn": "paraply",
+        "gjenstandbeskrivelse": "bærbar anordning designet beskyttelse regn sol"
+    },
+    {
+        "gjenstandnavn": "heklenål",
+        "gjenstandbeskrivelse": "verktøy brukt håndarbeid lage masker garn tråd"
+    },
+    {
+        "gjenstandnavn": "sigarkutter",
+        "gjenstandbeskrivelse": "verktøy brukt klippe enden sigar røyking"
+    },
+    {
+        "gjenstandnavn": "neglefil",
+        "gjenstandbeskrivelse": "verktøy brukt forme glatte kantene neglene"
+    },
+    {
+        "gjenstandnavn": "bunadssølje",
+        "gjenstandbeskrivelse": "tradisjonelt norsk smykke brukt bunader folkedrakter"
+    },
+    {
+        "gjenstandnavn": "aerosol",
+        "gjenstandbeskrivelse": "beholder sprayer innholdet fin tåke trykk"
+    },
+    {
+        "gjenstandnavn": "gasslighter",
+        "gjenstandbeskrivelse": "type lighter bruker gass brennstoff"
+    },
+    {
+        "gjenstandnavn": "sikkerhetsfyrstikke",
+        "gjenstandbeskrivelse": "type fyrstikk kun tennes spesiell overflate"
+    },
+    {
+        "gjenstandnavn": "brannslokningsapparat",
+        "gjenstandbeskrivelse": "enhet brukt slukke branner nødsituasjoner"
+    },
+    {
+        "gjenstandnavn": "pepperspray",
+        "gjenstandbeskrivelse": "selvforsvarsprodukt sprøyter brennende substans"
+    },
+    {
+        "gjenstandnavn": "tåregass",
+        "gjenstandbeskrivelse": "kjemisk substans forårsaker tåreflod ubehag brukt kontroll folkemengder"
+    },
+    {
+        "gjenstandnavn": "syre",
+        "gjenstandbeskrivelse": "kjemisk substans høy ph-verdi brukt forskjellige industrielle vitenskapelige applikasjoner"
+    },
+    {
+        "gjenstandnavn": "klor",
+        "gjenstandbeskrivelse": "kjemisk element brukt desinfeksjon blekemiddel"
+    },
+    {
+        "gjenstandnavn": "rottegift",
+        "gjenstandbeskrivelse": "kjemisk stoff brukt kontrollere rotte- musepopulasjoner"
+    },
+    {
+        "gjenstandnavn": "infisert blod",
+        "gjenstandbeskrivelse": "blod inneholder skadelige patogener virus bakterier"
+    },
+    {
+        "gjenstandnavn": "bakterie",
+        "gjenstandbeskrivelse": "mikroorganismer finnes overalt miljøet skadelige nyttige"
+    },
+    {
+        "gjenstandnavn": "virus",
+        "gjenstandbeskrivelse": "mikroskopiske infeksjonsfremkallende agenter forårsake sykdom"
+    },
+    {
+        "gjenstandnavn": "radioaktivt materiale",
+        "gjenstandbeskrivelse": "stoffer utstråler ioniserende stråling brukt medisin industri"
+    },
+    {
+        "gjenstandnavn": "våpenetterligning",
+        "gjenstandbeskrivelse": "objekter ekte våpen funksjonelle"
+    },
+    {
+        "gjenstandnavn": "våpendel",
+        "gjenstandbeskrivelse": "komponenter utgjør brukes montering våpen"
+    },
+    {
+        "gjenstandnavn": "luftgevær",
+        "gjenstandbeskrivelse": "våpen bruker trykkluft avfyre prosjektiler"
+    },
+    {
+        "gjenstandnavn": "paintballvåpen",
+        "gjenstandbeskrivelse": "våpen designet skyte malingfylte kuler paintballspill"
+    },
+    {
+        "gjenstandnavn": "spikerpistol",
+        "gjenstandbeskrivelse": "verktøy driver spiker tre materiale hjelp trykkluft elektrisitet"
+    },
+    {
+        "gjenstandnavn": "avlivingsutstyr",
+        "gjenstandbeskrivelse": "utstyr brukt avlive dyr human måte"
+    },
+    {
+        "gjenstandnavn": "elektrosjokkvåpen",
+        "gjenstandbeskrivelse": "ikke-dødelig våpen brukt selvforsvar sender elektriske støt"
+    },
+    {
+        "gjenstandnavn": "golfkølle",
+        "gjenstandbeskrivelse": "redskap brukt slå golfball spillet golf"
+    },
+    {
+        "gjenstandnavn": "harpuner",
+        "gjenstandbeskrivelse": "spyd brukt undervannsjakt fisk marine pattedyr"
+    },
+    {
+        "gjenstandnavn": "ishockeykølle",
+        "gjenstandbeskrivelse": "redskap brukt spille ishockey slå pucken"
+    },
+    {
+        "gjenstandnavn": "slåsshanske",
+        "gjenstandbeskrivelse": "hanske designet beskytte brukerens hender øke slagkraften kampsport"
+    },
+    {
+        "gjenstandnavn": "klubbe",
+        "gjenstandbeskrivelse": "stykke tre brukt tradisjonelle kamsporttyper"
+    },
+    {
+        "gjenstandnavn": "batong",
+        "gjenstandbeskrivelse": "stokk brukt våpen ofte politi kontrollere folkemengder"
+    },
+    {
+        "gjenstandnavn": "nunchakoer",
+        "gjenstandbeskrivelse": "tradisjonell asiatisk kampsportvåpen bestående to staver koblet kjede"
+    },
+    {
+        "gjenstandnavn": "kastestjerne",
+        "gjenstandbeskrivelse": "stjernformet metallvåpen spisse ender brukt kampsport"
+    },
+    {
+        "gjenstandnavn": "kårde",
+        "gjenstandbeskrivelse": "lett tynt sverd brukt fekting dueller"
+    },
+    {
+        "gjenstandnavn": "machete",
+        "gjenstandbeskrivelse": "tungt knivlignende verktøy brukt kutte tykk vegetasjon"
+    },
+    {
+        "gjenstandnavn": "fiskekrok",
+        "gjenstandbeskrivelse": "metallkrok brukt fange fisk feste agn"
+    },
+    {
+        "gjenstandnavn": "segway",
+        "gjenstandbeskrivelse": "elektrisk selvbalanserende persontransportmiddel to hjul"
+    },
+    {
+        "gjenstandnavn": "solowheel",
+        "gjenstandbeskrivelse": "enkelthjuls elektrisk kjøretøy balanseres brukeren"
+    },
+    {
+        "gjenstandnavn": "balance glider",
+        "gjenstandbeskrivelse": "selvbalanserende brett to hjul kjent hoverboard"
+    },
+    {
+        "gjenstandnavn": "primus",
+        "gjenstandbeskrivelse": "bærbart kokeapparat bruker brennstoff gass bensin utendørs matlaging"
+    },
+    {
+        "gjenstandnavn": "parfyme",
+        "gjenstandbeskrivelse": "blanding duftende essensielle oljer aromaforbindelser brukt kroppen behagelig lukt"
+    },
+    {
+        "gjenstandnavn": "linsevæske",
+        "gjenstandbeskrivelse": "steril løsning brukt rense skylle desinfisere kontaktlinser"
+    },
+    {
+        "gjenstandnavn": "shampo",
+        "gjenstandbeskrivelse": "hårpleieprodukt designet rense hodebunnen håret fjerne skitt oljer hudpartikler"
+    },
+    {
+        "gjenstandnavn": "balsam",
+        "gjenstandbeskrivelse": "hårpleieprodukt brukt shampo håret mykere lettere gre"
+    },
+    {
+        "gjenstandnavn": "vann",
+        "gjenstandbeskrivelse": "gjennomsiktig luktfri smakløs væske essensiell fleste kjente livsformer"
+    },
+    {
+        "gjenstandnavn": "sprøyte",
+        "gjenstandbeskrivelse": "medisinsk instrument brukt injisere væsker trekke kroppen"
+    },
+    {
+        "gjenstandnavn": "sprøytespiss",
+        "gjenstandbeskrivelse": "delen sprøyte gjennomborer huden levere trekke væske"
+    },
+    {
+        "gjenstandnavn": "spyd",
+        "gjenstandbeskrivelse": "tynt våpen designet kastes stikkes"
+    },
+    {
+        "gjenstandnavn": "startpistol",
+        "gjenstandbeskrivelse": "pistol brukt signalisere starten løp idrettskonkurranser"
+    },
+    {
+        "gjenstandnavn": "signalpistol",
+        "gjenstandbeskrivelse": "pistol designet avfyre lysraketter signalpatroner nødsignaler"
+    },
+    {
+        "gjenstandnavn": "stearinlys",
+        "gjenstandbeskrivelse": "lyskilde stearin voks veke midten"
+    },
+    {
+        "gjenstandnavn": "telys",
+        "gjenstandbeskrivelse": "lite stearinlys tynn metall- plastkopp brukt dekorasjon stemningsskaping"
+    },
+    {
+        "gjenstandnavn": "stormkjøkken",
+        "gjenstandbeskrivelse": "bærbart kjøkken kokeapparat brukt matlaging utendørs"
+    },
+    {
+        "gjenstandnavn": "drivstoffbeholder",
+        "gjenstandbeskrivelse": "beholder designet lagre drivstoff sikkert"
+    },
+    {
+        "gjenstandnavn": "strikkepinne",
+        "gjenstandbeskrivelse": "tynt verktøy brukt strikking lage løkker garn"
+    },
+    {
+        "gjenstandnavn": "sverd",
+        "gjenstandbeskrivelse": "håndholdt klingevåpen brukt kutte stikke"
+    },
+    {
+        "gjenstandnavn": "sabler",
+        "gjenstandbeskrivelse": "lett krummet klingevåpen brukt kavaleriet"
+    },
+    {
+        "gjenstandnavn": "sykkelpatrone",
+        "gjenstandbeskrivelse": "co2-patrone brukt rask oppumping sykkeldekk"
+    },
+    {
+        "gjenstandnavn": "syltetøy",
+        "gjenstandbeskrivelse": "tykk blanding frukt sukker kokt geléaktig"
+    },
+    {
+        "gjenstandnavn": "mobiltelefon",
+        "gjenstandbeskrivelse": "teknologisk gjenstand batteri"
+    },
+    {
+        "gjenstandnavn": "tannkrem",
+        "gjenstandbeskrivelse": "pasta brukt tannbørste rense beskytte tennene"
+    },
+    {
+        "gjenstandnavn": "tapetkniv",
+        "gjenstandbeskrivelse": "skarpt verktøy brukt kutte tapet materialer"
+    },
+    {
+        "gjenstandnavn": "telt",
+        "gjenstandbeskrivelse": "bærbar ly ly camping utendørs aktiviteter"
+    },
+    {
+        "gjenstandnavn": "teltstenge",
+        "gjenstandbeskrivelse": "stang brukt støtte strukturen telt"
+    },
+    {
+        "gjenstandnavn": "teltplugg",
+        "gjenstandbeskrivelse": "liten pinne stake brukes feste telt bakken"
+    },
+    {
+        "gjenstandnavn": "tennisracket",
+        "gjenstandbeskrivelse": "sportredskap brukt slå tennisball spill"
+    },
+    {
+        "gjenstandnavn": "trankapsler",
+        "gjenstandbeskrivelse": "kosttilskudd kapsler fylt fiskeolje rik omega-3 fettsyrer"
+    },
+    {
+        "gjenstandnavn": "øks",
+        "gjenstandbeskrivelse": "verktøy tungt blad festet håndtak brukt hugge"
+    },
+    {
+        "gjenstandnavn": "kjøttøks",
+        "gjenstandbeskrivelse": "tung øks brukt spesielt kutte kjøtt bein"
+    },
+    {
+        "gjenstandnavn": "ørepropper",
+        "gjenstandbeskrivelse": "ørepropper gjenstander batteri høre trådløss musikk"
+    },
+    {
+        "gjenstandnavn": "lommekniv",
+        "gjenstandbeskrivelse": "liten kniv blader foldes håndtaket"
+    },
+    {
+        "gjenstandnavn": "isbrodd",
+        "gjenstandbeskrivelse": "anordning festet sko grep isete overflater"
+    },
+    {
+        "gjenstandnavn": "ammunisjon",
+        "gjenstandbeskrivelse": "projektiler brukes skytevåpen"
+    },
+    {
+        "gjenstandnavn": "balltre",
+        "gjenstandbeskrivelse": "slagredskap brukt idretter baseball"
+    },
+    {
+        "gjenstandnavn": "barberblader",
+        "gjenstandbeskrivelse": "tynne blader brukt fjerne hår barbering"
+    },
+    {
+        "gjenstandnavn": "barberhøvel",
+        "gjenstandbeskrivelse": "verktøy barbering holder barberblader"
+    },
+    {
+        "gjenstandnavn": "biljardkø",
+        "gjenstandbeskrivelse": "tynt stokk brukt slå baller biljard"
+    },
+    {
+        "gjenstandnavn": "blåselampe",
+        "gjenstandbeskrivelse": "verktøy produserer intens flamme blåse brennstoff dyse"
+    },
+    {
+        "gjenstandnavn": "boremaskin",
+        "gjenstandbeskrivelse": "verktøy lage hull ulike materialer"
+    },
+    {
+        "gjenstandnavn": "bor",
+        "gjenstandbeskrivelse": "skjærende verktøy lage hull"
+    },
+    {
+        "gjenstandnavn": "drill",
+        "gjenstandbeskrivelse": "motorisert verktøy brukt bore hull skru skruer"
+    },
+    {
+        "gjenstandnavn": "bowlingkule",
+        "gjenstandbeskrivelse": "tung kule brukt bowling slå kjegler"
+    },
+    {
+        "gjenstandnavn": "brekkjern",
+        "gjenstandbeskrivelse": "verktøy brukt løfte bryte åpne objekter"
+    },
+    {
+        "gjenstandnavn": "brunost",
+        "gjenstandbeskrivelse": "type brun søt ost kjent norge"
+    },
+    {
+        "gjenstandnavn": "hvitost",
+        "gjenstandbeskrivelse": "generell betegnelse ost hvit farge variere smak tekstur"
+    },
+    {
+        "gjenstandnavn": "bær",
+        "gjenstandbeskrivelse": "små saftige frukter ofte spiselige rike vitaminer"
+    },
+    {
+        "gjenstandnavn": "dartpil",
+        "gjenstandbeskrivelse": "liten pil brukt spillet dart kaste dartskive"
+    },
+    {
+        "gjenstandnavn": "deodorant",
+        "gjenstandbeskrivelse": "produkt designet eliminere maskere kroppslukt"
+    },
+    {
+        "gjenstandnavn": "desinfeksjonsvæske",
+        "gjenstandbeskrivelse": "væske brukt drepe bakterier virus overflater"
+    },
+    {
+        "gjenstandnavn": "desinfiserende våtserviett",
+        "gjenstandbeskrivelse": "våtserviett impregnert desinfiserende middel rengjøring"
+    },
+    {
+        "gjenstandnavn": "detonator",
+        "gjenstandbeskrivelse": "enhet brukt utløse eksplosiver"
+    },
+    {
+        "gjenstandnavn": "lunte",
+        "gjenstandbeskrivelse": "brennbar streng brukt tenne eksplosiver kontrollert måte"
+    },
+    {
+        "gjenstandnavn": "dynamitt",
+        "gjenstandbeskrivelse": "eksplosivt materiale brukt sprengningsarbeid"
+    },
+    {
+        "gjenstandnavn": "krutt",
+        "gjenstandbeskrivelse": "brennbart pulver brukt drivmiddel skytevåpen fyrverkeri"
+    },
+    {
+        "gjenstandnavn": "plastiske sprengstoff",
+        "gjenstandbeskrivelse": "formbart eksplosivt materiale brukt militære sivile applikasjoner"
+    },
+    {
+        "gjenstandnavn": "egg",
+        "gjenstandbeskrivelse": "matvare produsert fugler reptiler fisker ofte brukt matlaging"
+    },
+    {
+        "gjenstandnavn": "elektronikk",
+        "gjenstandbeskrivelse": "enheter fungerer manipulere strøm inkludert datamaskiner mobiltelefoner"
+    },
+    {
+        "gjenstandnavn": "elektroniske sigaretter",
+        "gjenstandbeskrivelse": "enhet brukt imitere røyking bruk tobakk"
+    },
+    {
+        "gjenstandnavn": "fenghett",
+        "gjenstandbeskrivelse": "komponent ammunisjon tenner kruttet patronen"
+    },
+    {
+        "gjenstandnavn": "fisk",
+        "gjenstandbeskrivelse": "vannlevende virveldyr ofte brukes mat"
+    },
+    {
+        "gjenstandnavn": "fiskestang",
+        "gjenstandbeskrivelse": "verktøy brukt fange fisk hjelp lang linje agn"
+    },
+    {
+        "gjenstandnavn": "frukt",
+        "gjenstandbeskrivelse": "spiselige delen planter inneholder frø ofte søt saftig"
+    },
+    {
+        "gjenstandnavn": "fyrstikk",
+        "gjenstandbeskrivelse": "liten pinne brennbart hode tennes friksjon"
+    },
+    {
+        "gjenstandnavn": "pyroteknisk utstyr",
+        "gjenstandbeskrivelse": "enheter designet produsere lys lyd røyk eksplosjoner fyrverkeri"
+    },
+    {
+        "gjenstandnavn": "grøt",
+        "gjenstandbeskrivelse": "matrett vanligvis kokte kornprodukter ofte servert varm"
+    },
+    {
+        "gjenstandnavn": "pudding",
+        "gjenstandbeskrivelse": "dessert basert stivelse ris brød ofte smakstilsetninger"
+    },
+    {
+        "gjenstandnavn": "gelé",
+        "gjenstandbeskrivelse": "matrett stivne juice infusjoner ofte søt brukt dessert"
+    },
+    {
+        "gjenstandnavn": "krem",
+        "gjenstandbeskrivelse": "tykt rikt produkt melk høyt fettinnhold ofte brukt matlaging baking"
+    },
+    {
+        "gjenstandnavn": "gåstav",
+        "gjenstandbeskrivelse": "stav brukes støtte spesielt ulendt terreng"
+    },
+    {
+        "gjenstandnavn": "harpungevær",
+        "gjenstandbeskrivelse": "våpen designet skyte harpuner ofte brukt undervannsfiske"
+    },
+    {
+        "gjenstandnavn": "hoverboard",
+        "gjenstandbeskrivelse": "selvbalanserende scooter bruker gyro-skopiske sensorer tillate brukeren stå oppreist"
+    },
+    {
+        "gjenstandnavn": "hudkrem",
+        "gjenstandbeskrivelse": "produkt brukt fukte beskytte huden"
+    },
+    {
+        "gjenstandnavn": "lotion",
+        "gjenstandbeskrivelse": "flytende krem hudpleie fukter mykgjør huden"
+    },
+    {
+        "gjenstandnavn": "håndjern",
+        "gjenstandbeskrivelse": "låsbart anordning brukt begrense bevegelsene hender"
+    },
+    {
+        "gjenstandnavn": "isøks",
+        "gjenstandbeskrivelse": "verktøy brukt fjellklatring isklatring hjelpe bevegelse is"
+    },
+    {
+        "gjenstandnavn": "ishakke",
+        "gjenstandbeskrivelse": "verktøy bryte forme is ofte brukt isklatring"
+    },
+    {
+        "gjenstandnavn": "bakverk fyll",
+        "gjenstandbeskrivelse": "type bakverk fylt søte salte ingredienser"
+    },
+    {
+        "gjenstandnavn": "kakebunn",
+        "gjenstandbeskrivelse": "grunnlaget typer kaker ofte enkel svampekake"
+    },
+    {
+        "gjenstandnavn": "tørre kake",
+        "gjenstandbeskrivelse": "kake lav fuktighet ofte sprø tekstur"
+    },
+    {
+        "gjenstandnavn": "tørre kjeks",
+        "gjenstandbeskrivelse": "harde tørre småkaker ofte servert te kaffe"
+    },
+    {
+        "gjenstandnavn": "tørre cookies",
+        "gjenstandbeskrivelse": "type småkake vanligvis søt sprø tørr"
+    },
+    {
+        "gjenstandnavn": "kampsportsutstyr",
+        "gjenstandbeskrivelse": "utstyr beskyttelse brukt trening konkurranse kampsport"
+    },
+    {
+        "gjenstandnavn": "kaviar tube",
+        "gjenstandbeskrivelse": "kaviar pakket tube enkel servering oppbevaring"
+    },
+    {
+        "gjenstandnavn": "kjøtt",
+        "gjenstandbeskrivelse": "muskelvev dyr brukt mat"
+    },
+    {
+        "gjenstandnavn": "kjøttfarse",
+        "gjenstandbeskrivelse": "malt finhakket kjøtt ofte brukt matlaging"
+    },
+    {
+        "gjenstandnavn": "kniv",
+        "gjenstandbeskrivelse": "verktøy våpen blad kutte"
+    },
+    {
+        "gjenstandnavn": "kokosnøtt",
+        "gjenstandbeskrivelse": "harde frukten kokospalmen brukt matlaging drikke"
+    },
+    {
+        "gjenstandnavn": "kokosmelk",
+        "gjenstandbeskrivelse": "melkeaktig væske ekstrahert kjøttet moden kokosnøtt"
+    },
+    {
+        "gjenstandnavn": "krykke",
+        "gjenstandbeskrivelse": "støtteanordning brukt skade funksjonshemming hjelpe"
+    },
+    {
+        "gjenstandnavn": "lekepistol",
+        "gjenstandbeskrivelse": "leketøy etterligner utseendet ganger lyden ekte pistol"
+    },
+    {
+        "gjenstandnavn": "våpenimitasjon",
+        "gjenstandbeskrivelse": "etterligning våpen funksjonelt ofte brukt rekvisitt leketøy"
+    },
+    {
+        "gjenstandnavn": "leppestift",
+        "gjenstandbeskrivelse": "kosmetisk produkt påføres leppene farge tekstur"
+    },
+    {
+        "gjenstandnavn": "solstift",
+        "gjenstandbeskrivelse": "stift brukt beskytte lepper solens skadelige stråler"
+    },
+    {
+        "gjenstandnavn": "dekkstift",
+        "gjenstandbeskrivelse": "kosmetisk produkt brukt dekke hudfeil kviser mørke ringer"
+    },
+    {
+        "gjenstandnavn": "lighter",
+        "gjenstandbeskrivelse": "bærbar enhet skape flamme brukt tenne sigaretter lys"
+    },
+    {
+        "gjenstandnavn": "lipgloss",
+        "gjenstandbeskrivelse": "kosmetisk produkt gir leppene glanset finish"
+    },
+    {
+        "gjenstandnavn": "luftpistol",
+        "gjenstandbeskrivelse": "våpen bruker trykkluft skyte små prosjektiler"
+    },
+    {
+        "gjenstandnavn": "matpakke",
+        "gjenstandbeskrivelse": "beholder mat hjemmefra spise måltid hjemmet"
+    },
+    {
+        "gjenstandnavn": "medisinsk utstyr",
+        "gjenstandbeskrivelse": "instrumenter apparater brukt medisinsk behandling diagnostikk"
+    },
+    {
+        "gjenstandnavn": "mine",
+        "gjenstandbeskrivelse": "eksplosivt våpen detoneres nærhet"
+    },
+    {
+        "gjenstandnavn": "granat",
+        "gjenstandbeskrivelse": "håndkastet skytevåpen-lansert eksplosivt våpen"
+    },
+    {
+        "gjenstandnavn": "sprengstoff",
+        "gjenstandbeskrivelse": "sterkt eksplosivt materiale brukt konstruksjon gruvedrift militæret"
+    },
+    {
+        "gjenstandnavn": "neglklipper",
+        "gjenstandbeskrivelse": "lite verktøy klippe negler hender føtter"
+    },
+    {
+        "gjenstandnavn": "padleåre",
+        "gjenstandbeskrivelse": "redskap brukt flytte båt vann hjelp muskelkraft"
+    },
+    {
+        "gjenstandnavn": "pc",
+        "gjenstandbeskrivelse": "personlig datamaskin brukt ulike digitale oppgaver"
+    },
+    {
+        "gjenstandnavn": "nettbrett",
+        "gjenstandbeskrivelse": "flat bærbar datamaskin berøringsskjerm"
+    },
+    {
+        "gjenstandnavn": "pil",
+        "gjenstandbeskrivelse": "prosjektil brukt bue skyte"
+    },
+    {
+        "gjenstandnavn": "bue",
+        "gjenstandbeskrivelse": "våpen bøyelig stykke materiale skyter piler hjelp strengen"
+    },
+    {
+        "gjenstandnavn": "armbrøst",
+        "gjenstandbeskrivelse": "middelaldersk avstandsvåpen skyter piler bolter"
+    },
+    {
+        "gjenstandnavn": "pil bue",
+        "gjenstandbeskrivelse": "tradisjonelt verktøy våpen bruker elastisk energi skyte piler"
+    },
+    {
+        "gjenstandnavn": "potteplante",
+        "gjenstandbeskrivelse": "plante dyrket plantet potte innendørs bruk"
+    },
+    {
+        "gjenstandnavn": "powerbank",
+        "gjenstandbeskrivelse": "bærbar enhet brukes lade elektroniske enheter via usb-grensesnitt"
+    },
+    {
+        "gjenstandnavn": "prim",
+        "gjenstandbeskrivelse": "myk spiselig ferskost ofte brukt brød"
+    },
+    {
+        "gjenstandnavn": "muggost",
+        "gjenstandbeskrivelse": "ost modnet edel mugg utvikle smak"
+    },
+    {
+        "gjenstandnavn": "smøre-ost",
+        "gjenstandbeskrivelse": "kremet smørbar ost brukt pålegg"
+    },
+    {
+        "gjenstandnavn": "proteindrikk",
+        "gjenstandbeskrivelse": "drikk rik proteiner ofte brukt supplement trening"
+    },
+    {
+        "gjenstandnavn": "sportsdrikk",
+        "gjenstandbeskrivelse": "drikk designet hjelpe idrettsutøvere rehydrere trening"
+    },
+    {
+        "gjenstandnavn": "proteinpulver",
+        "gjenstandbeskrivelse": "kosttilskudd pulverform rikt proteiner muskelbygging reparasjon"
+    },
+    {
+        "gjenstandnavn": "redningsvest",
+        "gjenstandbeskrivelse": "oppblåsbar vest brukes sikkerhetsutstyr vannet"
+    },
+    {
+        "gjenstandnavn": "rogn",
+        "gjenstandbeskrivelse": "fiskeegg ofte brukes mat produksjon kaviar"
+    },
+    {
+        "gjenstandnavn": "basiske stoff",
+        "gjenstandbeskrivelse": "kjemiske stoffer ph-verdi 7 ofte brukt rengjøring"
+    },
+    {
+        "gjenstandnavn": "kvikksølv",
+        "gjenstandbeskrivelse": "tungmetall flytende romtemperatur brukt termometre"
+    },
+    {
+        "gjenstandnavn": "bilbatteri",
+        "gjenstandbeskrivelse": "enhet lagrer elektrisk energi starte bilmotor"
+    },
+    {
+        "gjenstandnavn": "røykbombe",
+        "gjenstandbeskrivelse": "enhet produserer mengde røyk brukt signalering skjerming"
+    },
+    {
+        "gjenstandnavn": "røykpatrone",
+        "gjenstandbeskrivelse": "beholder aktivering frigjør røyk bruk nødsituasjoner trening"
+    },
+    {
+        "gjenstandnavn": "sag",
+        "gjenstandbeskrivelse": "verktøy tannet blad kutte materialer tre"
+    },
+    {
+        "gjenstandnavn": "saks",
+        "gjenstandbeskrivelse": "håndholdt verktøy to blader glir hverandre klippe materialer"
+    },
+    {
+        "gjenstandnavn": "sjampo",
+        "gjenstandbeskrivelse": "rengjøringsprodukt hår hodebunn"
+    },
+    {
+        "gjenstandnavn": "såpe",
+        "gjenstandbeskrivelse": "såpe væskeform brukt håndvask kroppsrengjøring"
+    },
+    {
+        "gjenstandnavn": "sjokolade",
+        "gjenstandbeskrivelse": "søt populær konfekt kakao sukker"
+    },
+    {
+        "gjenstandnavn": "konfekt",
+        "gjenstandbeskrivelse": "type søtsaker sjokolader ofte gitt gave"
+    },
+    {
+        "gjenstandnavn": "porøs sjokolade",
+        "gjenstandbeskrivelse": "sjokolade lett luftig tekstur"
+    },
+    {
+        "gjenstandnavn": "sjokoladepålegg",
+        "gjenstandbeskrivelse": "smørbar sjokoladekrem ofte brukt pålegg brød"
+    },
+    {
+        "gjenstandnavn": "skateboard",
+        "gjenstandbeskrivelse": "lite brett hjul brukt skateboardkjøring"
+    },
+    {
+        "gjenstandnavn": "skrujern",
+        "gjenstandbeskrivelse": "verktøy skru skruer"
+    },
+    {
+        "gjenstandnavn": "meisel",
+        "gjenstandbeskrivelse": "håndverktøy skarpt blad forme kutte harde materialer"
+    },
+    {
+        "gjenstandnavn": "skytevåpen",
+        "gjenstandbeskrivelse": "våpen avfyrer prosjektiler hjelp eksplosiv kraft"
+    },
+    {
+        "gjenstandnavn": "skøyte",
+        "gjenstandbeskrivelse": "sko understell blader gli is"
+    },
+    {
+        "gjenstandnavn": "smør",
+        "gjenstandbeskrivelse": "meieriprodukt kjerne fløte brukt pålegg matlaging"
+    },
+    {
+        "gjenstandnavn": "margarin",
+        "gjenstandbeskrivelse": "smørbart matfett ofte brukt vegetarisk alternativ smør"
+    },
+    {
+        "gjenstandnavn": "sparkesykkel",
+        "gjenstandbeskrivelse": "lite kjøretøy flatt dekk to hjul drevet frem brukerens fotkraft"
+    },
+    {
+        "gjenstandnavn": "sprettert",
+        "gjenstandbeskrivelse": "lite håndholdt prosjektilvåpen bruker elastisk energi skyte små objekter"
+    },
+    {
+        "gjenstandnavn": "slynge",
+        "gjenstandbeskrivelse": "våpen bruker stropp nett kaste tunge prosjektiler"
+    },
+    {
+        "gjenstandnavn": "springkniv",
+        "gjenstandbeskrivelse": "kniv blad spretter håndtaket knapp trykkes"
+    }
+]

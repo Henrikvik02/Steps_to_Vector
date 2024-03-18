@@ -1,0 +1,1130 @@
+[
+    {
+        "gjenstandid":125,
+        "gjenstandnavn":"Rullestol",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En gjenstand brukt for å transportere funksjonsnedsatte mennesker"
+    },
+    {
+        "gjenstandid":138,
+        "gjenstandnavn":"Skalpell",
+        "kategoriid":5,
+        "gjenstandbeskrivelse":"Et svært skarpt kirurgisk instrument brukt i medisinske prosedyrer."
+    },
+    {
+        "gjenstandid":139,
+        "gjenstandnavn":"Engangshøvle",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"En høvel med et blad for engangsbruk, ofte brukt til barbering."
+    },
+    {
+        "gjenstandid":140,
+        "gjenstandnavn":"Pinsett",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et lite verktøy brukt for å plukke opp eller holde små objekter."
+    },
+    {
+        "gjenstandid":141,
+        "gjenstandnavn":"Paraply",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En bærbar anordning designet for beskyttelse mot regn eller sol."
+    },
+    {
+        "gjenstandid":142,
+        "gjenstandnavn":"Heklenål",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et verktøy brukt i håndarbeid for å lage masker i garn eller tråd."
+    },
+    {
+        "gjenstandid":143,
+        "gjenstandnavn":"Sigarkutter",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et verktøy brukt for å klippe enden av en sigar før røyking."
+    },
+    {
+        "gjenstandid":144,
+        "gjenstandnavn":"Neglefil",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et verktøy brukt for å forme og glatte ut kantene på neglene."
+    },
+    {
+        "gjenstandid":145,
+        "gjenstandnavn":"Bunadssølje",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et tradisjonelt norsk smykke brukt på bunader og folkedrakter."
+    },
+    {
+        "gjenstandid":146,
+        "gjenstandnavn":"Aerosol",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"En beholder som sprayer innholdet som en fin tåke ved trykk."
+    },
+    {
+        "gjenstandid":147,
+        "gjenstandnavn":"Gasslighter",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"En type lighter som bruker gass som brennstoff."
+    },
+    {
+        "gjenstandid":148,
+        "gjenstandnavn":"Sikkerhetsfyrstikke",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"En type fyrstikk som kun kan tennes mot en spesiell overflate."
+    },
+    {
+        "gjenstandid":149,
+        "gjenstandnavn":"Brannslokningsapparat",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"En enhet brukt for å slukke branner i nødsituasjoner."
+    },
+    {
+        "gjenstandid":150,
+        "gjenstandnavn":"Pepperspray",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Et selvforsvarsprodukt som sprøyter en brennende substans."
+    },
+    {
+        "gjenstandid":151,
+        "gjenstandnavn":"Tåregass",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"En kjemisk substans som forårsaker tåreflod og ubehag, brukt i kontroll av folkemengder."
+    },
+    {
+        "gjenstandid":152,
+        "gjenstandnavn":"Syre",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"En kjemisk substans med høy pH-verdi, brukt i forskjellige industrielle og vitenskapelige applikasjoner."
+    },
+    {
+        "gjenstandid":155,
+        "gjenstandnavn":"Klor",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Et kjemisk element brukt i desinfeksjon og som blekemiddel."
+    },
+    {
+        "gjenstandid":157,
+        "gjenstandnavn":"Rottegift",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Et kjemisk stoff brukt for å kontrollere rotte- og musepopulasjoner."
+    },
+    {
+        "gjenstandid":158,
+        "gjenstandnavn":"Infisert blod",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Blod som inneholder skadelige patogener, som virus eller bakterier."
+    },
+    {
+        "gjenstandid":159,
+        "gjenstandnavn":"Bakterie",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Mikroorganismer som finnes overalt i miljøet, noen er skadelige mens andre er nyttige."
+    },
+    {
+        "gjenstandid":160,
+        "gjenstandnavn":"Virus",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Mikroskopiske infeksjonsfremkallende agenter som kan forårsake sykdom."
+    },
+    {
+        "gjenstandid":161,
+        "gjenstandnavn":"Radioaktivt materiale",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Stoffer som utstråler ioniserende stråling, brukt i medisin og industri."
+    },
+    {
+        "gjenstandid":162,
+        "gjenstandnavn":"Våpenetterligning",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Objekter som ser ut som ekte våpen, men som ikke er funksjonelle."
+    },
+    {
+        "gjenstandid":163,
+        "gjenstandnavn":"Våpendel",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Komponenter som utgjør eller kan brukes i montering av et våpen."
+    },
+    {
+        "gjenstandid":164,
+        "gjenstandnavn":"Luftgevær",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen som bruker trykkluft til å avfyre prosjektiler."
+    },
+    {
+        "gjenstandid":165,
+        "gjenstandnavn":"Paintballvåpen",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen designet for å skyte malingfylte kuler i paintballspill."
+    },
+    {
+        "gjenstandid":166,
+        "gjenstandnavn":"Spikerpistol",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et verktøy som driver spiker inn i tre eller annet materiale ved hjelp av trykkluft eller elektrisitet."
+    },
+    {
+        "gjenstandid":167,
+        "gjenstandnavn":"Avlivingsutstyr",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Utstyr brukt for å avlive dyr på en human måte."
+    },
+    {
+        "gjenstandid":168,
+        "gjenstandnavn":"Elektrosjokkvåpen",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et ikke-dødelig våpen brukt for selvforsvar, som sender ut elektriske støt."
+    },
+    {
+        "gjenstandid":169,
+        "gjenstandnavn":"Golfkølle",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et redskap brukt til å slå en golfball i spillet golf."
+    },
+    {
+        "gjenstandid":170,
+        "gjenstandnavn":"Harpuner",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et langt spyd brukt i undervannsjakt på store fisk eller marine pattedyr."
+    },
+    {
+        "gjenstandid":171,
+        "gjenstandnavn":"Ishockeykølle",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et redskap brukt til å spille ishockey, for å slå pucken."
+    },
+    {
+        "gjenstandid":172,
+        "gjenstandnavn":"Slåsshanske",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En hanske designet for å beskytte brukerens hender og øke slagkraften i kampsport."
+    },
+    {
+        "gjenstandid":173,
+        "gjenstandnavn":"Klubbe",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et stykke tre brukt i tradisjonelle kamsporttyper."
+    },
+    {
+        "gjenstandid":174,
+        "gjenstandnavn":"Batong",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En kort stokk brukt som våpen, ofte av politi for å kontrollere folkemengder."
+    },
+    {
+        "gjenstandid":175,
+        "gjenstandnavn":"Nunchakoer",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En tradisjonell asiatisk kampsportvåpen bestående av to staver koblet sammen med en kort kjede."
+    },
+    {
+        "gjenstandid":176,
+        "gjenstandnavn":"Kastestjerne",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et stjernformet metallvåpen med flere spisse ender, brukt i kampsport."
+    },
+    {
+        "gjenstandid":177,
+        "gjenstandnavn":"Kårde",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et lett, tynt sverd brukt i fekting og dueller."
+    },
+    {
+        "gjenstandid":178,
+        "gjenstandnavn":"Machete",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et langt, tungt knivlignende verktøy brukt for å kutte gjennom tykk vegetasjon."
+    },
+    {
+        "gjenstandid":179,
+        "gjenstandnavn":"Fiskekrok",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En metallkrok brukt for å fange fisk ved å feste agn."
+    },
+    {
+        "gjenstandid":180,
+        "gjenstandnavn":"Segway",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et elektrisk, selvbalanserende persontransportmiddel med to hjul."
+    },
+    {
+        "gjenstandid":181,
+        "gjenstandnavn":"Solowheel",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et enkelthjuls elektrisk kjøretøy som balanseres av brukeren."
+    },
+    {
+        "gjenstandid":182,
+        "gjenstandnavn":"Balance glider",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et selvbalanserende brett med to hjul, kjent som hoverboard."
+    },
+    {
+        "gjenstandid":183,
+        "gjenstandnavn":"Primus",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et bærbart kokeapparat som bruker brennstoff som gass eller bensin for utendørs matlaging."
+    },
+    {
+        "gjenstandid":184,
+        "gjenstandnavn":"Parfyme",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En blanding av duftende essensielle oljer eller aromaforbindelser, brukt for å gi kroppen en behagelig lukt."
+    },
+    {
+        "gjenstandid":185,
+        "gjenstandnavn":"Linsevæske",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En steril løsning brukt for å rense, skylle og desinfisere kontaktlinser."
+    },
+    {
+        "gjenstandid":186,
+        "gjenstandnavn":"Shampo",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et hårpleieprodukt designet for å rense hodebunnen og håret ved å fjerne skitt, oljer og hudpartikler."
+    },
+    {
+        "gjenstandid":187,
+        "gjenstandnavn":"Balsam",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et hårpleieprodukt brukt etter shampo for å gjøre håret mykere og lettere å gre."
+    },
+    {
+        "gjenstandid":188,
+        "gjenstandnavn":"Vann",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En gjennomsiktig, luktfri og smakløs væske som er essensiell for de fleste kjente livsformer."
+    },
+    {
+        "gjenstandid":110,
+        "gjenstandnavn":"Sprøyte",
+        "kategoriid":5,
+        "gjenstandbeskrivelse":"Et medisinsk instrument brukt til å injisere væsker inn i eller trekke dem ut fra kroppen."
+    },
+    {
+        "gjenstandid":111,
+        "gjenstandnavn":"Sprøytespiss",
+        "kategoriid":5,
+        "gjenstandbeskrivelse":"Den delen av en sprøyte som gjennomborer huden for å levere eller trekke ut væske."
+    },
+    {
+        "gjenstandid":112,
+        "gjenstandnavn":"Spyd",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et langt, tynt våpen som er designet for å kastes eller stikkes."
+    },
+    {
+        "gjenstandid":113,
+        "gjenstandnavn":"Startpistol",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"En pistol brukt for å signalisere starten av løp i idrettskonkurranser."
+    },
+    {
+        "gjenstandid":114,
+        "gjenstandnavn":"Signalpistol",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"En pistol designet for å avfyre lysraketter eller signalpatroner for nødsignaler."
+    },
+    {
+        "gjenstandid":115,
+        "gjenstandnavn":"Stearinlys",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"En lyskilde laget av stearin eller voks med en veke i midten."
+    },
+    {
+        "gjenstandid":116,
+        "gjenstandnavn":"Telys",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"Et lite stearinlys i en tynn metall- eller plastkopp, brukt for dekorasjon eller stemningsskaping."
+    },
+    {
+        "gjenstandid":117,
+        "gjenstandnavn":"Stormkjøkken",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et bærbart kjøkken eller kokeapparat brukt for matlaging utendørs."
+    },
+    {
+        "gjenstandid":118,
+        "gjenstandnavn":"Drivstoffbeholder",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"En beholder designet for å lagre drivstoff sikkert."
+    },
+    {
+        "gjenstandid":119,
+        "gjenstandnavn":"Strikkepinne",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et langt, tynt verktøy brukt i strikking for å lage løkker av garn."
+    },
+    {
+        "gjenstandid":120,
+        "gjenstandnavn":"Sverd",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et langt, håndholdt klingevåpen brukt for å kutte eller stikke."
+    },
+    {
+        "gjenstandid":121,
+        "gjenstandnavn":"Sabler",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et lett krummet klingevåpen brukt i kavaleriet."
+    },
+    {
+        "gjenstandid":122,
+        "gjenstandnavn":"Sykkelpatrone",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En CO2-patrone brukt for rask oppumping av sykkeldekk."
+    },
+    {
+        "gjenstandid":123,
+        "gjenstandnavn":"Syltetøy",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En tykk blanding av frukt og sukker som er kokt til den blir geléaktig."
+    },
+    {
+        "gjenstandid":124,
+        "gjenstandnavn":"Mobiltelefon",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"En teknologisk gjenstand med batteri"
+    },
+    {
+        "gjenstandid":126,
+        "gjenstandnavn":"Tannkrem",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En pasta brukt på en tannbørste for å rense og beskytte tennene."
+    },
+    {
+        "gjenstandid":127,
+        "gjenstandnavn":"Tapetkniv",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et skarpt verktøy brukt for å kutte tapet og andre materialer."
+    },
+    {
+        "gjenstandid":128,
+        "gjenstandnavn":"Telt",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En bærbar ly for å gi ly under camping og utendørs aktiviteter."
+    },
+    {
+        "gjenstandid":129,
+        "gjenstandnavn":"Teltstenge",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En stang brukt til å støtte strukturen av et telt."
+    },
+    {
+        "gjenstandid":130,
+        "gjenstandnavn":"Teltplugg",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En liten pinne eller stake som brukes til å feste et telt til bakken."
+    },
+    {
+        "gjenstandid":131,
+        "gjenstandnavn":"Tennisracket",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et sportredskap brukt for å slå en tennisball i spill."
+    },
+    {
+        "gjenstandid":132,
+        "gjenstandnavn":"Trankapsler",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Kosttilskudd i kapsler fylt med fiskeolje rik på omega-3 fettsyrer."
+    },
+    {
+        "gjenstandid":133,
+        "gjenstandnavn":"Øks",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et verktøy med et tungt blad festet til et håndtak, brukt for å hugge."
+    },
+    {
+        "gjenstandid":134,
+        "gjenstandnavn":"Kjøttøks",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"En stor og tung øks brukt spesielt for å kutte gjennom kjøtt og bein."
+    },
+    {
+        "gjenstandid":135,
+        "gjenstandnavn":"Ørepropper",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"Ørepropper er gjenstander med batteri for å høre på trådløss musikk"
+    },
+    {
+        "gjenstandid":136,
+        "gjenstandnavn":"Lommekniv",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"En liten kniv med ett eller flere blader som foldes inn i håndtaket."
+    },
+    {
+        "gjenstandid":137,
+        "gjenstandnavn":"Isbrodd",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En anordning festet til sko for bedre grep på isete overflater."
+    },
+    {
+        "gjenstandid":1,
+        "gjenstandnavn":"Ammunisjon",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Projektiler som brukes i skytevåpen."
+    },
+    {
+        "gjenstandid":2,
+        "gjenstandnavn":"Balltre",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et slagredskap brukt i idretter som baseball."
+    },
+    {
+        "gjenstandid":3,
+        "gjenstandnavn":"Barberblader",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Tynne blader brukt for å fjerne hår ved barbering."
+    },
+    {
+        "gjenstandid":4,
+        "gjenstandnavn":"Barberhøvel",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et verktøy for barbering som holder barberblader."
+    },
+    {
+        "gjenstandid":5,
+        "gjenstandnavn":"Biljardkø",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et langt, tynt stokk brukt til å slå baller i biljard."
+    },
+    {
+        "gjenstandid":6,
+        "gjenstandnavn":"Blåselampe",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et verktøy som produserer en intens flamme ved å blåse brennstoff gjennom en dyse."
+    },
+    {
+        "gjenstandid":7,
+        "gjenstandnavn":"Boremaskin",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et verktøy for å lage hull i ulike materialer."
+    },
+    {
+        "gjenstandid":8,
+        "gjenstandnavn":"Bor",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et skjærende verktøy for å lage runde hull."
+    },
+    {
+        "gjenstandid":9,
+        "gjenstandnavn":"Drill",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et motorisert verktøy brukt til å bore hull eller skru inn skruer."
+    },
+    {
+        "gjenstandid":10,
+        "gjenstandnavn":"Bowlingkule",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En tung kule brukt i bowling for å slå ned kjegler."
+    },
+    {
+        "gjenstandid":11,
+        "gjenstandnavn":"Brekkjern",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et verktøy brukt for å løfte eller bryte åpne objekter."
+    },
+    {
+        "gjenstandid":12,
+        "gjenstandnavn":"Brunost",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En type brun, søt ost kjent fra Norge."
+    },
+    {
+        "gjenstandid":13,
+        "gjenstandnavn":"Hvitost",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En generell betegnelse på ost med hvit farge, kan variere i smak og tekstur."
+    },
+    {
+        "gjenstandid":14,
+        "gjenstandnavn":"Bær",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Små, saftige frukter som ofte er spiselige og rike på vitaminer."
+    },
+    {
+        "gjenstandid":15,
+        "gjenstandnavn":"Dartpil",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En liten pil brukt i spillet dart for å kaste mot en dartskive."
+    },
+    {
+        "gjenstandid":16,
+        "gjenstandnavn":"Deodorant",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et produkt designet for å eliminere eller maskere kroppslukt."
+    },
+    {
+        "gjenstandid":17,
+        "gjenstandnavn":"Desinfeksjonsvæske",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En væske brukt for å drepe bakterier og virus på overflater."
+    },
+    {
+        "gjenstandid":18,
+        "gjenstandnavn":"Desinfiserende våtserviett",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En våtserviett impregnert med desinfiserende middel for rengjøring."
+    },
+    {
+        "gjenstandid":19,
+        "gjenstandnavn":"Detonator",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"En enhet brukt for å utløse eksplosiver."
+    },
+    {
+        "gjenstandid":20,
+        "gjenstandnavn":"Lunte",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"En brennbar streng brukt til å tenne eksplosiver på en kontrollert måte."
+    },
+    {
+        "gjenstandid":21,
+        "gjenstandnavn":"Dynamitt",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Et eksplosivt materiale brukt i sprengningsarbeid."
+    },
+    {
+        "gjenstandid":22,
+        "gjenstandnavn":"Krutt",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Et brennbart pulver brukt som drivmiddel i skytevåpen og fyrverkeri."
+    },
+    {
+        "gjenstandid":23,
+        "gjenstandnavn":"Plastiske sprengstoff",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Et formbart eksplosivt materiale brukt i militære og sivile applikasjoner."
+    },
+    {
+        "gjenstandid":24,
+        "gjenstandnavn":"Egg",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En matvare produsert av fugler, reptiler, og noen fisker, ofte brukt i matlaging."
+    },
+    {
+        "gjenstandid":25,
+        "gjenstandnavn":"Elektronikk",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"Enheter som fungerer ved å manipulere strøm, inkludert datamaskiner og mobiltelefoner."
+    },
+    {
+        "gjenstandid":26,
+        "gjenstandnavn":"Elektroniske sigaretter",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"En enhet brukt til å imitere røyking uten bruk av tobakk."
+    },
+    {
+        "gjenstandid":27,
+        "gjenstandnavn":"Fenghett",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"En komponent i ammunisjon som tenner kruttet i patronen."
+    },
+    {
+        "gjenstandid":28,
+        "gjenstandnavn":"Fisk",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Vannlevende virveldyr som ofte brukes som mat."
+    },
+    {
+        "gjenstandid":29,
+        "gjenstandnavn":"Fiskestang",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et verktøy brukt for å fange fisk ved hjelp av en lang linje og et agn."
+    },
+    {
+        "gjenstandid":30,
+        "gjenstandnavn":"Frukt",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Den spiselige delen av planter som inneholder frø, ofte søt og saftig."
+    },
+    {
+        "gjenstandid":31,
+        "gjenstandnavn":"Fyrstikk",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"En liten pinne med et brennbart hode som kan tennes ved friksjon."
+    },
+    {
+        "gjenstandid":32,
+        "gjenstandnavn":"Pyroteknisk utstyr",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Enheter designet for å produsere lys, lyd, røyk og\/eller eksplosjoner, som fyrverkeri."
+    },
+    {
+        "gjenstandid":33,
+        "gjenstandnavn":"Grøt",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En matrett vanligvis laget av kokte kornprodukter, ofte servert varm."
+    },
+    {
+        "gjenstandid":34,
+        "gjenstandnavn":"Pudding",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En dessert som kan være basert på stivelse, ris eller brød, ofte med smakstilsetninger."
+    },
+    {
+        "gjenstandid":35,
+        "gjenstandnavn":"Gelé",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En matrett laget ved å stivne juice eller infusjoner, ofte søt og brukt som dessert."
+    },
+    {
+        "gjenstandid":36,
+        "gjenstandnavn":"Krem",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Et tykt, rikt produkt av melk med høyt fettinnhold, ofte brukt i matlaging og baking."
+    },
+    {
+        "gjenstandid":37,
+        "gjenstandnavn":"Gåstav",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En stav som brukes som støtte når man går, spesielt i ulendt terreng."
+    },
+    {
+        "gjenstandid":38,
+        "gjenstandnavn":"Harpungevær",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen designet for å skyte harpuner, ofte brukt i undervannsfiske."
+    },
+    {
+        "gjenstandid":39,
+        "gjenstandnavn":"Hoverboard",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En selvbalanserende scooter som bruker gyro-skopiske sensorer for å tillate brukeren å stå oppreist."
+    },
+    {
+        "gjenstandid":40,
+        "gjenstandnavn":"Hudkrem",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et produkt brukt for å fukte og beskytte huden."
+    },
+    {
+        "gjenstandid":41,
+        "gjenstandnavn":"Lotion",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En flytende krem for hudpleie som fukter og mykgjør huden."
+    },
+    {
+        "gjenstandid":42,
+        "gjenstandnavn":"Håndjern",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et låsbart anordning brukt for å begrense bevegelsene til hender."
+    },
+    {
+        "gjenstandid":43,
+        "gjenstandnavn":"Isøks",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et verktøy brukt i fjellklatring og isklatring for å hjelpe til med bevegelse over is."
+    },
+    {
+        "gjenstandid":44,
+        "gjenstandnavn":"Ishakke",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et verktøy for å bryte og forme is, ofte brukt i isklatring."
+    },
+    {
+        "gjenstandid":45,
+        "gjenstandnavn":"Bakverk med fyll",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En type bakverk som er fylt med søte eller salte ingredienser."
+    },
+    {
+        "gjenstandid":46,
+        "gjenstandnavn":"Kakebunn",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Grunnlaget for mange typer kaker, ofte laget av en enkel svampekake."
+    },
+    {
+        "gjenstandid":47,
+        "gjenstandnavn":"Tørre kake",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En kake med lav fuktighet, ofte med en sprø tekstur."
+    },
+    {
+        "gjenstandid":48,
+        "gjenstandnavn":"Tørre kjeks",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Harde, tørre småkaker, ofte servert med te eller kaffe."
+    },
+    {
+        "gjenstandid":49,
+        "gjenstandnavn":"Tørre cookies",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En type småkake som vanligvis er søt, sprø og tørr."
+    },
+    {
+        "gjenstandid":50,
+        "gjenstandnavn":"Kampsportsutstyr",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Utstyr og beskyttelse brukt under trening og konkurranse i kampsport."
+    },
+    {
+        "gjenstandid":51,
+        "gjenstandnavn":"Kaviar på tube",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Kaviar pakket i en tube for enkel servering og oppbevaring."
+    },
+    {
+        "gjenstandid":52,
+        "gjenstandnavn":"Kjøtt",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Muskelvev fra dyr brukt som mat."
+    },
+    {
+        "gjenstandid":53,
+        "gjenstandnavn":"Kjøttfarse",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Malt eller finhakket kjøtt, ofte brukt i matlaging."
+    },
+    {
+        "gjenstandid":54,
+        "gjenstandnavn":"Kniv",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et verktøy eller våpen med et blad for å kutte."
+    },
+    {
+        "gjenstandid":55,
+        "gjenstandnavn":"Kokosnøtt",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Den store, harde frukten av kokospalmen, brukt i matlaging og som drikke."
+    },
+    {
+        "gjenstandid":56,
+        "gjenstandnavn":"Kokosmelk",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En melkeaktig væske ekstrahert fra kjøttet av en moden kokosnøtt."
+    },
+    {
+        "gjenstandid":57,
+        "gjenstandnavn":"Krykke",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En støtteanordning brukt av personer med skade eller funksjonshemming, for å hjelpe til med å gå."
+    },
+    {
+        "gjenstandid":58,
+        "gjenstandnavn":"Lekepistol",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"En leketøy som etterligner utseendet og noen ganger lyden av en ekte pistol."
+    },
+    {
+        "gjenstandid":59,
+        "gjenstandnavn":"Våpenimitasjon",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"En etterligning av et våpen som ikke er funksjonelt, ofte brukt som rekvisitt eller leketøy."
+    },
+    {
+        "gjenstandid":60,
+        "gjenstandnavn":"Leppestift",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et kosmetisk produkt som påføres leppene for å gi farge og tekstur."
+    },
+    {
+        "gjenstandid":61,
+        "gjenstandnavn":"Solstift",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En stift brukt for å beskytte lepper mot solens skadelige stråler."
+    },
+    {
+        "gjenstandid":62,
+        "gjenstandnavn":"Dekkstift",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et kosmetisk produkt brukt for å dekke over hudfeil som kviser og mørke ringer."
+    },
+    {
+        "gjenstandid":63,
+        "gjenstandnavn":"Lighter",
+        "kategoriid":3,
+        "gjenstandbeskrivelse":"En bærbar enhet for å skape en flamme, brukt til å tenne sigaretter og lys."
+    },
+    {
+        "gjenstandid":64,
+        "gjenstandnavn":"Lipgloss",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et kosmetisk produkt som gir leppene en glanset finish."
+    },
+    {
+        "gjenstandid":65,
+        "gjenstandnavn":"Luftpistol",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen som bruker trykkluft for å skyte små prosjektiler."
+    },
+    {
+        "gjenstandid":66,
+        "gjenstandnavn":"Matpakke",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En beholder med mat tatt med hjemmefra for å spise som et måltid utenfor hjemmet."
+    },
+    {
+        "gjenstandid":67,
+        "gjenstandnavn":"Medisinsk utstyr",
+        "kategoriid":5,
+        "gjenstandbeskrivelse":"Instrumenter og apparater brukt i medisinsk behandling og diagnostikk."
+    },
+    {
+        "gjenstandid":68,
+        "gjenstandnavn":"Mine",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Et eksplosivt våpen som detoneres ved kontakt eller nærhet av et mål."
+    },
+    {
+        "gjenstandid":69,
+        "gjenstandnavn":"Granat",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Et håndkastet eller skytevåpen-lansert eksplosivt våpen."
+    },
+    {
+        "gjenstandid":70,
+        "gjenstandnavn":"Sprengstoff",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"Et sterkt eksplosivt materiale brukt i konstruksjon, gruvedrift og militæret."
+    },
+    {
+        "gjenstandid":71,
+        "gjenstandnavn":"Neglklipper",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et lite verktøy for å klippe negler på hender og føtter."
+    },
+    {
+        "gjenstandid":72,
+        "gjenstandnavn":"Padleåre",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et redskap brukt for å flytte en båt gjennom vann ved hjelp av muskelkraft."
+    },
+    {
+        "gjenstandid":73,
+        "gjenstandnavn":"PC",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"En personlig datamaskin brukt for ulike digitale oppgaver."
+    },
+    {
+        "gjenstandid":74,
+        "gjenstandnavn":"Nettbrett",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"En flat, bærbar datamaskin med berøringsskjerm."
+    },
+    {
+        "gjenstandid":75,
+        "gjenstandnavn":"Pil",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et prosjektil brukt sammen med en bue for å skyte mot mål."
+    },
+    {
+        "gjenstandid":76,
+        "gjenstandnavn":"Bue",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen laget av et bøyelig stykke materiale som skyter piler ved hjelp av strengen."
+    },
+    {
+        "gjenstandid":77,
+        "gjenstandnavn":"Armbrøst",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et middelaldersk avstandsvåpen som skyter piler eller bolter."
+    },
+    {
+        "gjenstandid":78,
+        "gjenstandnavn":"Pil og Bue",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et tradisjonelt verktøy og våpen som bruker elastisk energi for å skyte piler."
+    },
+    {
+        "gjenstandid":79,
+        "gjenstandnavn":"Potteplante",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En plante som er dyrket eller plantet i en potte for innendørs bruk."
+    },
+    {
+        "gjenstandid":80,
+        "gjenstandnavn":"Powerbank",
+        "kategoriid":9,
+        "gjenstandbeskrivelse":"En bærbar enhet som brukes for å lade elektroniske enheter via et USB-grensesnitt."
+    },
+    {
+        "gjenstandid":81,
+        "gjenstandnavn":"Prim",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En myk, spiselig ferskost ofte brukt på brød."
+    },
+    {
+        "gjenstandid":82,
+        "gjenstandnavn":"Muggost",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Ost som har blitt modnet med edel mugg for å utvikle smak."
+    },
+    {
+        "gjenstandid":83,
+        "gjenstandnavn":"Smøre-ost",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En kremet, smørbar ost brukt som pålegg."
+    },
+    {
+        "gjenstandid":84,
+        "gjenstandnavn":"Proteindrikk",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En drikk rik på proteiner, ofte brukt som et supplement etter trening."
+    },
+    {
+        "gjenstandid":85,
+        "gjenstandnavn":"Sportsdrikk",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En drikk designet for å hjelpe idrettsutøvere med å rehydrere under og etter trening."
+    },
+    {
+        "gjenstandid":86,
+        "gjenstandnavn":"Proteinpulver",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Et kosttilskudd i pulverform rikt på proteiner for muskelbygging og reparasjon."
+    },
+    {
+        "gjenstandid":87,
+        "gjenstandnavn":"Redningsvest",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En oppblåsbar vest som brukes som sikkerhetsutstyr på vannet."
+    },
+    {
+        "gjenstandid":88,
+        "gjenstandnavn":"Rogn",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Fiskeegg som ofte brukes som mat eller i produksjon av kaviar."
+    },
+    {
+        "gjenstandid":153,
+        "gjenstandnavn":"Basiske stoff",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Kjemiske stoffer som har en pH-verdi over 7, ofte brukt i rengjøring."
+    },
+    {
+        "gjenstandid":154,
+        "gjenstandnavn":"Kvikksølv",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"Et tungmetall som er flytende ved romtemperatur, brukt i termometre."
+    },
+    {
+        "gjenstandid":156,
+        "gjenstandnavn":"Bilbatteri",
+        "kategoriid":4,
+        "gjenstandbeskrivelse":"En enhet som lagrer elektrisk energi for å starte en bilmotor."
+    },
+    {
+        "gjenstandid":89,
+        "gjenstandnavn":"Røykbombe",
+        "kategoriid":2,
+        "gjenstandbeskrivelse":"En enhet som produserer en stor mengde røyk, brukt for signalering eller skjerming."
+    },
+    {
+        "gjenstandid":90,
+        "gjenstandnavn":"Røykpatrone",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"En beholder som ved aktivering frigjør røyk for bruk i nødsituasjoner eller trening."
+    },
+    {
+        "gjenstandid":91,
+        "gjenstandnavn":"Sag",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et verktøy med et tannet blad for å kutte gjennom materialer som tre."
+    },
+    {
+        "gjenstandid":92,
+        "gjenstandnavn":"Saks",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et håndholdt verktøy med to blader som glir mot hverandre for å klippe materialer."
+    },
+    {
+        "gjenstandid":93,
+        "gjenstandnavn":"Sjampo",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"Et rengjøringsprodukt for hår og hodebunn."
+    },
+    {
+        "gjenstandid":94,
+        "gjenstandnavn":"Såpe",
+        "kategoriid":1,
+        "gjenstandbeskrivelse":"En såpe i væskeform brukt for håndvask eller kroppsrengjøring."
+    },
+    {
+        "gjenstandid":95,
+        "gjenstandnavn":"Sjokolade",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En søt, populær konfekt laget med kakao og sukker."
+    },
+    {
+        "gjenstandid":96,
+        "gjenstandnavn":"Konfekt",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En type søtsaker eller sjokolader, ofte gitt som gave."
+    },
+    {
+        "gjenstandid":97,
+        "gjenstandnavn":"Porøs sjokolade",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Sjokolade med en lett og luftig tekstur."
+    },
+    {
+        "gjenstandid":98,
+        "gjenstandnavn":"Sjokoladepålegg",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"En smørbar sjokoladekrem, ofte brukt som pålegg på brød."
+    },
+    {
+        "gjenstandid":99,
+        "gjenstandnavn":"Skateboard",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et lite brett med hjul brukt for skateboardkjøring."
+    },
+    {
+        "gjenstandid":100,
+        "gjenstandnavn":"Skrujern",
+        "kategoriid":8,
+        "gjenstandbeskrivelse":"Et verktøy for å skru inn eller ut skruer."
+    },
+    {
+        "gjenstandid":101,
+        "gjenstandnavn":"Meisel",
+        "kategoriid":10,
+        "gjenstandbeskrivelse":"Et håndverktøy med et skarpt blad for å forme eller kutte harde materialer."
+    },
+    {
+        "gjenstandid":102,
+        "gjenstandnavn":"Skytevåpen",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen som avfyrer prosjektiler ved hjelp av eksplosiv kraft."
+    },
+    {
+        "gjenstandid":103,
+        "gjenstandnavn":"Skøyte",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En sko eller et understell med blader for å gli på is."
+    },
+    {
+        "gjenstandid":104,
+        "gjenstandnavn":"Smør",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Et meieriprodukt laget ved å kjerne fløte, brukt som pålegg og i matlaging."
+    },
+    {
+        "gjenstandid":105,
+        "gjenstandnavn":"Margarin",
+        "kategoriid":6,
+        "gjenstandbeskrivelse":"Et smørbart matfett, ofte brukt som et vegetarisk alternativ til smør."
+    },
+    {
+        "gjenstandid":106,
+        "gjenstandnavn":"Sparkesykkel",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"Et lite kjøretøy med et flatt dekk og to hjul, drevet frem av brukerens fotkraft."
+    },
+    {
+        "gjenstandid":107,
+        "gjenstandnavn":"Sprettert",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et lite håndholdt prosjektilvåpen som bruker elastisk energi for å skyte små objekter."
+    },
+    {
+        "gjenstandid":108,
+        "gjenstandnavn":"Slynge",
+        "kategoriid":11,
+        "gjenstandbeskrivelse":"Et våpen som bruker en stropp eller nett for å kaste tunge prosjektiler."
+    },
+    {
+        "gjenstandid":109,
+        "gjenstandnavn":"Springkniv",
+        "kategoriid":7,
+        "gjenstandbeskrivelse":"En kniv med et blad som spretter ut fra håndtaket når en knapp trykkes."
+    }
+]
