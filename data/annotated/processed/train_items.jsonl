@@ -96,7 +96,7 @@
 {"text": "lunte", "entities": [[0, 5, "Gjenstand"]]}
 {"text": "dynamitt", "entities": [[0, 8, "Gjenstand"]]}
 {"text": "krutt", "entities": [[0, 5, "Gjenstand"]]}
-{"text": "plastiske sprengstoff", "entities": [[0, 21, "Gjenstand"]]}
+{"text": "plastisk sprengstoff", "entities": [[0, 21, "Gjenstand"]]}
 {"text": "egg", "entities": [[0, 3, "Gjenstand"]]}
 {"text": "elektronikk", "entities": [[0, 11, "Gjenstand"]]}
 {"text": "elektroniske sigaretter", "entities": [[0, 23, "Gjenstand"]]}
