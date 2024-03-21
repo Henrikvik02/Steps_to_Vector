@@ -35,7 +35,7 @@ def convert_jsonl_spacyjson(file_path, out_file_path):
         json.dump(data, json_file, ensure_ascii=False, indent=2)
 
 
-def convert_spacyjson_docs(file_path, out_file_path, lang_model="nb_core_news_sm"):
+def convert_spacyjson_docs(file_path, out_file_path, lang_model="nb_core_news_lg"):
     nlp = spacy.load(lang_model)
     training_data = []
     with open(file_path, 'r', encoding='utf-8') as json_file:
@@ -53,7 +53,7 @@ def convert_spacyjson_docs(file_path, out_file_path, lang_model="nb_core_news_sm
         db.add(doc)
     db.to_disk(out_file_path)
 
-# import json
+#import json
 # from spacy.tokens import DocBin, Span
 
 
